@@ -1,0 +1,3072 @@
+[
+  {
+    "id": 1,
+    "departamental": "Departamental 1 — Norte",
+    "nombre": "DEPARTAMENTAL N° 1 (NORTE)",
+    "direccion": "DEFENSA Y URUGUAY",
+    "telefono": "3855 98-6689",
+    "marcable": "3855986689",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 2,
+    "departamental": "Departamental 1 — Norte",
+    "nombre": "CRIA COM N° 2",
+    "direccion": "DEFENSA Y URUGUAY",
+    "telefono": "3855 94-1790",
+    "marcable": "3855941790",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 3,
+    "departamental": "Departamental 1 — Norte",
+    "nombre": "CRIA COM N° 5",
+    "direccion": "ANTENOR ALVAREZ Y A. QUINZIO",
+    "telefono": "3854 73-8751",
+    "marcable": "3854738751",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 4,
+    "departamental": "Departamental 1 — Norte",
+    "nombre": "CRIA COM N° 49",
+    "direccion": "BASE AEREA PALOMAR Y AVIACION CIVIL",
+    "telefono": "3855 98-6679",
+    "marcable": "3855986679",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 5,
+    "departamental": "Departamental 1 — Norte",
+    "nombre": "CRIA 11 MUJER Y FAMILIA",
+    "direccion": "DEFENSA Y URUGUAY",
+    "telefono": "3853 05-1044",
+    "marcable": "3853051044",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 6,
+    "departamental": "Departamental 1 — Norte",
+    "nombre": "SUBCRIA LOS NUÑEZ",
+    "direccion": "LOS NUÑEZ",
+    "telefono": "3855 07-7045",
+    "marcable": "3855077045",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 7,
+    "departamental": "Departamental 1 — Norte",
+    "nombre": "DTO. POLICIAL. \"TERMINAL \"- CRIA. COM. Nº 2",
+    "direccion": "TERMINAL",
+    "telefono": "3854728506",
+    "marcable": "3854728506",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 8,
+    "departamental": "Departamental 1 — Norte",
+    "nombre": "DTO. POLICIAL. \"ASHPA KAUSAY\"",
+    "direccion": "ASHPA KAUSAY",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 1
+  },
+  {
+    "id": 9,
+    "departamental": "Departamental 1 — Norte",
+    "nombre": "DTO. POLICIAL. Nº 10 \"EL DEAN\" - CRIA. COM. Nº 49",
+    "direccion": "EL DEAN",
+    "telefono": "3854 738459",
+    "marcable": "3854738459",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 10,
+    "departamental": "Departamental 1 — Norte",
+    "nombre": "DTO. POLICIAL. Nº 20 \"EL SAUZAL\" - CRIA. COM. Nº 49",
+    "direccion": "EL SAUZAL",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 1
+  },
+  {
+    "id": 11,
+    "departamental": "Departamental 2 — Centro",
+    "nombre": "DEPARTAMENTAL N° 2 (CENTRO)",
+    "direccion": "PEDRO LEON GALLO Y GRANADERO SAAVEDRA",
+    "telefono": "3855 98-6654",
+    "marcable": "3855986654",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 12,
+    "departamental": "Departamental 2 — Centro",
+    "nombre": "CRIA. COM. N° 1",
+    "direccion": "AVELLANEDA N° 333",
+    "telefono": "3855986652",
+    "marcable": "3855986652",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 13,
+    "departamental": "Departamental 2 — Centro",
+    "nombre": "CRIA. COM. N° 4",
+    "direccion": "AV. LIBERTAD 1407",
+    "telefono": "3855986849",
+    "marcable": "3855986849",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 14,
+    "departamental": "Departamental 2 — Centro",
+    "nombre": "CRIA. COM. N° 6",
+    "direccion": "PEDRO PABLO OLAECHEA N°1290",
+    "telefono": "3855986824",
+    "marcable": "3855986824",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 15,
+    "departamental": "Departamental 2 — Centro",
+    "nombre": "CRIA. COM. N° 8",
+    "direccion": "AV. AGUIRRE (S) N° 785",
+    "telefono": "3854738824",
+    "marcable": "3854738824",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 16,
+    "departamental": "Departamental 2 — Centro",
+    "nombre": "CRIA. COM. N° 1 DE LA MUJER Y FLIA",
+    "direccion": "AV. LIBERTAD 1471",
+    "telefono": "3855986661",
+    "marcable": "3855986661",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 17,
+    "departamental": "Departamental 2 — Centro",
+    "nombre": "DPTAL. Y DIV. PREVENCION",
+    "direccion": "PEDRO LEON GALLO Y GRANADERO SAAVEDRA",
+    "telefono": "3855986654",
+    "marcable": "3855986654",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 18,
+    "departamental": "Departamental 3 — Sur",
+    "nombre": "DEPARTAMENTAL N° 3 (SUR)",
+    "direccion": "B° SIGLO XXC/ ATAHUALPA YUPANQUI Y AV. DR RENE FAVALORO",
+    "telefono": "3855986692",
+    "marcable": "3855986692",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 19,
+    "departamental": "Departamental 3 — Sur",
+    "nombre": "CRIA COM N° 11",
+    "direccion": "B° EJE ARG CAP. CONTRERAS Y LEOPOLDO M. AVILA",
+    "telefono": "3854 97-0642",
+    "marcable": "3854970642",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 20,
+    "departamental": "Departamental 3 — Sur",
+    "nombre": "CRIA COM N° 45",
+    "direccion": "B° VINALAR SAN CAYETANO Y LOS PIONEROS",
+    "telefono": "3855986844",
+    "marcable": "3855986844",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 21,
+    "departamental": "Departamental 3 — Sur",
+    "nombre": "CRIA COM N° 51",
+    "direccion": "B° SIGLO XXC/ ATAHUALPA YUPANQUI E ING CONTRERAS",
+    "telefono": "3854 97-0302",
+    "marcable": "3854970302",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 22,
+    "departamental": "Departamental 3 — Sur",
+    "nombre": "CRIA COM N° 5 DE LA M Y F",
+    "direccion": "B° SIGLO XX COLEC DE AV CIRC RAUL. R ALF. E ING CONTRERAS",
+    "telefono": "3854 73-6773",
+    "marcable": "3854736773",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 23,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "DEPARTAMENTAL N° 4 (BANDA OESTE)",
+    "direccion": "AV. BELGRANO Y CALLE URQUIZA B°CENTRO",
+    "telefono": "3855 98-6839",
+    "marcable": "3855986839",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 24,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "CRIA. COM. N° 12",
+    "direccion": "RUTA PROVINCIAL N°1, VEREDA TOBAS S/N B° MISKI MAYU",
+    "telefono": "3855134421",
+    "marcable": "3855134421",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 25,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "CRIA. COM. N° 13",
+    "direccion": "ALBERDI Nº 177 B° CENTRO",
+    "telefono": "3854738656",
+    "marcable": "3854738656",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 26,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "CRIA. COM. N° 15",
+    "direccion": "CALLE AVELLANEDA Y AMADEO JACQUES B° SAN MARTIN",
+    "telefono": "3855986843",
+    "marcable": "3855986843",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 27,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "CRIA. COM. N° 47",
+    "direccion": "CALLE 3 ESQUINA SUMAMPA B° SAN FERNANDO",
+    "telefono": "3854738768",
+    "marcable": "3854738768",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 28,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "CRIA COM N° 2 DE LA M Y F",
+    "direccion": "AMADEO JACQUES Y AVELLANEDA B° SAN MARTIN",
+    "telefono": "3855986757",
+    "marcable": "3855986757",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 29,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "SUBCRIA LA DARSENA",
+    "direccion": "CALLE PUBLICA SIN NUMERO LOC. LA DARSENA",
+    "telefono": "3855191620",
+    "marcable": "3855191620",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 30,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "SUBCRIA LOS QUIROGA",
+    "direccion": "CALLE PUBLICA S/N, LOS QUIROGAS",
+    "telefono": "3855986863",
+    "marcable": "3855986863",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 31,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "ALCAIDIA",
+    "direccion": "AV. BELGRANO Y URQUIZA B° CENTRO",
+    "telefono": "3855970530",
+    "marcable": "3855970530",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 32,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "DIV. PREVENCION N°4",
+    "direccion": "AV. LOS MOLINOS Y AV. 2 DE SEPTIEMBRE,",
+    "telefono": "3856277586",
+    "marcable": "3856277586",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 33,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "DTO. POLICIAL. \"B° AVENIDA\" - CRIA. COM. Nº 15 -",
+    "direccion": "CALLE CHECOLAO Y AFRICA B° AVENIDA",
+    "telefono": "54 9 3854 97-2138",
+    "marcable": "",
+    "estado": "revisar",
+    "pagina": 1
+  },
+  {
+    "id": 34,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "DTO. POLICIAL. N° 2 \"LOS ACOSTA\" -",
+    "direccion": "Los Acosta",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 1
+  },
+  {
+    "id": 35,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "DTO. POLICIAL. N° 4 \"ARDILES\" -",
+    "direccion": "Ardiles",
+    "telefono": "3855 98-6867",
+    "marcable": "3855986867",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 36,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "DTO. POLICIAL. N° 9 \"CHAUPI POZO\" -",
+    "direccion": "Chaupi Pozo",
+    "telefono": "3855 98-6877",
+    "marcable": "3855986877",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 37,
+    "departamental": "Departamental 4 — Banda Oeste",
+    "nombre": "DTO. POLICIAL. \"DIQUE LOS QUIROGAS\" -",
+    "direccion": "INGRESO AL DIQUE",
+    "telefono": "3855 98-6864",
+    "marcable": "3855986864",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 38,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DEPARTAMENTAL N° 5 (BANDA ESTE)",
+    "direccion": "AV. PRINCIPAL S/N Bº EL RINCON",
+    "telefono": "3854204540",
+    "marcable": "3854204540",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 39,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "CRIA. COM. Nº 14",
+    "direccion": "AV. BOLIVIA Y CALLE ESPAÑA",
+    "telefono": "3854972276",
+    "marcable": "3854972276",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 40,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "CRIA. COM. Nº 16",
+    "direccion": "AV. ADEODATO HERRERA Nº 335 Bº CENTRO",
+    "telefono": "3856229446",
+    "marcable": "3856229446",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 41,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "CRIA. COM. Nº 56",
+    "direccion": "AV. PRINCIPAL S/N Bº EL RINCON",
+    "telefono": "3856229450",
+    "marcable": "3856229450",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 42,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "CRIA. COM. Nº 12 DE LA MUJER Y FAMILIA",
+    "direccion": "CALLE DOMINGO JUAREZ Y JULIO JEREZ Bº SALIDO",
+    "telefono": "3853051038",
+    "marcable": "3853051038",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 43,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "SUBCRIA. BANDERA BAJADA",
+    "direccion": "LOC. BANDERA BAJADA DPTO. FIGUEROA",
+    "telefono": "3855908101",
+    "marcable": "3855908101",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 44,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "SUBCRIA. ESTACION SIMBOLAR",
+    "direccion": "RUTA 11 Y CALLE 12 LOC. ESTACION SIMBOLAR",
+    "telefono": "3856229414",
+    "marcable": "3856229414",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 45,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "SUBCRIA. LA INVERNADA NORTE",
+    "direccion": "LOC. LA INVERNADA NORTE DPTO. FIGUEROA",
+    "telefono": "3856889072",
+    "marcable": "3856889072",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 46,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. CAÑADA ESCOBAR",
+    "direccion": "RUTA 89 LOC. CAÑADA ESCOBAR",
+    "telefono": "3854971777",
+    "marcable": "3854971777",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 47,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. POSTA SANITARIA TRAMO 26",
+    "direccion": "LOC. TRAMO 26 DPTO. BANDA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 1
+  },
+  {
+    "id": 48,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. Nº 14 LA AURORA",
+    "direccion": "RUTA PROVINCIAL Nº 21",
+    "telefono": "3854971275",
+    "marcable": "3854971275",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 49,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. Nº 20 MARIA ELENA",
+    "direccion": "COLONIA MARIA ELENA DPTO. BANDA",
+    "telefono": "3854971307",
+    "marcable": "3854971307",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 50,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. Nº 21 NEGRA MUERTA",
+    "direccion": "LOC. NEGRA MUERTA DPTO. BANDA",
+    "telefono": "3854971401",
+    "marcable": "3854971401",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 51,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. EL AIBE",
+    "direccion": "RUTA PCIAL. Nº 176 LOC. EL AIBE DPTO. BANDA",
+    "telefono": "3854971170",
+    "marcable": "3854971170",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 52,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. Nº 11 ANTAJE",
+    "direccion": "RUTA PCIAL. Nº 176 LOC. ANTAJE DPTO. BANDA",
+    "telefono": "3854971230",
+    "marcable": "3854971230",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 53,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. Nº 5 JUMIAL GRANDE",
+    "direccion": "LOC. LA INVERNADA SUR. DPTO. FIGUEROA",
+    "telefono": "3855134308",
+    "marcable": "3855134308",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 54,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. Nº 8 LA GUARDIA",
+    "direccion": "LOC. KM. CERO DPTO. FIGUEROA",
+    "telefono": "3855134317",
+    "marcable": "3855134317",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 55,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. Nº 11 POZO DEL CASTAÑO",
+    "direccion": "LOC. POZO DEL CASTAÑO DPTO. FIGUEROA",
+    "telefono": "3855134318",
+    "marcable": "3855134318",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 56,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. Nº 14 SAN ANTONIO CASPI CORRAL",
+    "direccion": "LOC. CASPI CORRAL DPTO. FIGUEROA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 1
+  },
+  {
+    "id": 57,
+    "departamental": "Departamental 5 — Banda Este",
+    "nombre": "DESTACAMENTO. Nº 17 VACA HUAÑUNA",
+    "direccion": "LOC. VACA HUAÑUNA DPTO. FIGUEROA",
+    "telefono": "3855134338",
+    "marcable": "3855134338",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 58,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "DEPARTAMENTAL N° 16 (FLORES)",
+    "direccion": "CALLE EL VINAL Y CALLE EL JUME",
+    "telefono": "3854738790",
+    "marcable": "3854738790",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 59,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "CRIA COM Nº 3",
+    "direccion": "CALLE JUNCAL Y CALLE PUERTO DESEO",
+    "telefono": "3855986834",
+    "marcable": "3855986834",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 60,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "CRIA COM Nº 7",
+    "direccion": "C/ DR ARGAÑARAZ Y AV BELGRANO",
+    "telefono": "3856229441",
+    "marcable": "3856229441",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 61,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "CRIA COM Nº 54",
+    "direccion": "CALLE JUNCAL Y CALLE PUERTO DESEO",
+    "telefono": "3854 76-8812",
+    "marcable": "3854768812",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 62,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "CRIA COM Nº 61",
+    "direccion": "RUTA Nº 9 Y CAMINO DEL MEDIO",
+    "telefono": "3854 20-9285",
+    "marcable": "3854209285",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 63,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "CRIA COM N° 16 MUJER Y LA FAMILIA",
+    "direccion": "COSTANERA Y CALLE 520",
+    "telefono": "3853 06-4312",
+    "marcable": "3853064312",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 64,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "SUB CRIA MACO",
+    "direccion": "INDEPENDENCIA PROLONGACION",
+    "telefono": "3855 98-6796",
+    "marcable": "3855986796",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 65,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "SUB CRIA COSTANERA SUR",
+    "direccion": "COSTANERA Y CALLE JUNCAL",
+    "telefono": "3855 98-6706",
+    "marcable": "3855986706",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 66,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "SUB CRIA LA COSTA",
+    "direccion": "COSTANERA Y CALLE 520",
+    "telefono": "3855 94-1817",
+    "marcable": "3855941817",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 67,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "DTO. POLICIAL. N° 17 \"SANTA MARIA\" - SUBCRIA. ZANJON",
+    "direccion": "RUTA Nº 9 A LA ALTURA DEL KM 1115",
+    "telefono": "54 9 3855 98-6805",
+    "marcable": "",
+    "estado": "revisar",
+    "pagina": 1
+  },
+  {
+    "id": 68,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "DTO. POLICIAL. \"VUELTA LA BARRANCA\" - SUBCRIA. MACO",
+    "direccion": "INDEPENDENCIA PROLONGACION E INGRESO CAMINO VECINAL DE VUELTA LA BARRANCA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 1
+  },
+  {
+    "id": 69,
+    "departamental": "Departamental 16 — Flores",
+    "nombre": "DTO. POLICIAL. \"SAN PEDRO\" - SUBCRIA. MACO",
+    "direccion": "INDEPENDENCIA PROLONGACION, LOC. SAN PEDRO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 1
+  },
+  {
+    "id": 70,
+    "departamental": "Departamental 17 — Belen",
+    "nombre": "DEPARTAMENTAL N° 17 (BELEN)",
+    "direccion": "CALLE AYACUCHO MZA 13 LOTE 11 B° BELEN",
+    "telefono": "3855 98-6878",
+    "marcable": "3855986878",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 71,
+    "departamental": "Departamental 17 — Belen",
+    "nombre": "CRIA COM Nª 9",
+    "direccion": "CALLE ORESTE DILULLO Nª 2750",
+    "telefono": "3854764248",
+    "marcable": "3854764248",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 72,
+    "departamental": "Departamental 17 — Belen",
+    "nombre": "CRIA COM Nª 10",
+    "direccion": "Av. BORGES N° 435 B° AUTONOMIA",
+    "telefono": "3854738534",
+    "marcable": "3854738534",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 73,
+    "departamental": "Departamental 17 — Belen",
+    "nombre": "CRIA COM Nª 59",
+    "direccion": "Calle Ayacucho y Calle Publica Bº BELÉN",
+    "telefono": "3855986875",
+    "marcable": "3855986875",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 74,
+    "departamental": "Departamental 17 — Belen",
+    "nombre": "CRIA. COM N° 17 MUJER Y FAMILIA",
+    "direccion": "MZA 13 LOTE 11 B° BELEN",
+    "telefono": "3854085501",
+    "marcable": "3854085501",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 75,
+    "departamental": "Departamental 17 — Belen",
+    "nombre": "SUB CRIA SOL DE MAYO DSC17",
+    "direccion": "Loc. Sol de mayo",
+    "telefono": "385 626-1613",
+    "marcable": "3856261613",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 76,
+    "departamental": "Departamental 17 — Belen",
+    "nombre": "DESTACAMENTO N°9 REMES",
+    "direccion": "Loc. Remes",
+    "telefono": "QRT",
+    "marcable": "",
+    "estado": "revisar",
+    "pagina": 1
+  },
+  {
+    "id": 77,
+    "departamental": "Departamental 17 — Belen",
+    "nombre": "DESTACAMENTO LA VERNACHA",
+    "direccion": "INTERIOR DEL AREOPUERTO",
+    "telefono": "3855 98-6691",
+    "marcable": "3855986691",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 78,
+    "departamental": "Departamental 19 — Villa Del Carmen",
+    "nombre": "DEPARTAMENTAL N° 19 (VILLA DEL CARMEN)",
+    "direccion": "CALLE RIO HONDO S/N B° VILLA DEL CARMEN",
+    "telefono": "3855191943",
+    "marcable": "3855191943",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 79,
+    "departamental": "Departamental 19 — Villa Del Carmen",
+    "nombre": "CRIA COM Nº 63",
+    "direccion": "Calle Rio Hondo S/N Bº Villa del Carmen",
+    "telefono": "3855986614",
+    "marcable": "3855986614",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 80,
+    "departamental": "Departamental 19 — Villa Del Carmen",
+    "nombre": "CRIA COM Nº 19 MUJER Y FAMLIA",
+    "direccion": "Calle Rio Hondo S/N Bº Villa del Carmen",
+    "telefono": "3855966399",
+    "marcable": "3855966399",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 81,
+    "departamental": "Departamental 19 — Villa Del Carmen",
+    "nombre": "DESTACAMENTO SAN BENITO",
+    "direccion": "ZONA RURAL SAN BENITO DPTO CAPITAL",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 1
+  },
+  {
+    "id": 82,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DEPARTAMENTAL N° 6 (TERMAS DE RIO HONDO)",
+    "direccion": "MORENO N°370, B° SECTOR EL ALTO",
+    "telefono": "3855 98-6866",
+    "marcable": "3855986866",
+    "estado": "sin verificar",
+    "pagina": 1
+  },
+  {
+    "id": 83,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "CRIA COM Nº 40 TERMAS DE RIO HONDO",
+    "direccion": "MORENO N°370, B° SECTOR EL ALTO",
+    "telefono": "385-4739992",
+    "marcable": "3854739992",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 84,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "CRIA COM Nº 50 TERMAS DE RIO HONDO",
+    "direccion": "ABSALON ROJAS Y NUÑEZ DEL PRADO B° SAN MARTIN",
+    "telefono": "3854 08-1613",
+    "marcable": "3854081613",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 85,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "CRIA COM N° 57 B° VILLA BALNEARIA TRH",
+    "direccion": "GABRIELA MISTRAL Y LAS ROSAS B° VILLA BALNEARIA",
+    "telefono": "3855986854",
+    "marcable": "3855986854",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 86,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "CRIA COM. N° 58 EL CHARCO",
+    "direccion": "RUTA PROVINCIAL N° 93, LOC. CHARCO",
+    "telefono": "3853 06-4313",
+    "marcable": "3853064313",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 87,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "CRIA COM.MUJER Y LA FLIA N° 6",
+    "direccion": "MORENO N°370, B° SECTOR EL ALTO",
+    "telefono": "385-4757027",
+    "marcable": "3854757027",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 88,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "SUB. CRIA VILLA RIO HONDO",
+    "direccion": "Ruta prov. 93 ingreso a V. Rio hondo",
+    "telefono": "385-5134426",
+    "marcable": "3855134426",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 89,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "SUB CRIA GRAMILLA",
+    "direccion": "CALLE PUBLICA S/N, LOC. GRAMILLA",
+    "telefono": "385-5134455",
+    "marcable": "3855134455",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 90,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "SUB. CRIA VINARA",
+    "direccion": "LOCALIDAD DE VINARA DPTO RIO HONDO",
+    "telefono": "385-5134415",
+    "marcable": "3855134415",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 91,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO N° 05 EL BAGUAL",
+    "direccion": "RUTA PROVINCIAL N° 08 LOC. BAGUAL",
+    "telefono": "385-5134379",
+    "marcable": "3855134379",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 92,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO N° 07 EL CHURQUI",
+    "direccion": "RUTA PROVINCIAL N° 93 LOC. CHURQUI",
+    "telefono": "385-5134380",
+    "marcable": "3855134380",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 93,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO N° 12 TORO POZO",
+    "direccion": "RUTA PROVINCIAL N° 08, LOC. TORO POZO",
+    "telefono": "385-5134392",
+    "marcable": "3855134392",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 94,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO N° 14 SANTA FELIZA",
+    "direccion": "CAMINO DE TIERRA, LOC. SANTA FELIZA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 95,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO. POL.N° 6 CHAÑAR POZO DE ABAJO",
+    "direccion": "CHAÑAR POZO DE ABAJO",
+    "telefono": "PERTENECE SEG. VIAL",
+    "marcable": "",
+    "estado": "revisar",
+    "pagina": 2
+  },
+  {
+    "id": 96,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO. POL. N° 7 LOC LESCANO",
+    "direccion": "CAMINO VECINAL LOC. LESCANO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 97,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO. POL. N° 8 DIQUE FRONTAL",
+    "direccion": "VILLA BALNEARIA DIQUE FRONTAL",
+    "telefono": "PERTENECE SEG. VIAL",
+    "marcable": "",
+    "estado": "revisar",
+    "pagina": 2
+  },
+  {
+    "id": 98,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO. POL. N° 9 LOS ARAGONES",
+    "direccion": "LOS ARAGONES",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 99,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO. POL. N° 13 LOS OVEJEROS",
+    "direccion": "LOS OVEJERO",
+    "telefono": "3855135811",
+    "marcable": "3855135811",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 100,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO. N° 17 POZUELO",
+    "direccion": "RUTA PROVINCIAL N° 93, LOC. POZUELO",
+    "telefono": "385-5134394",
+    "marcable": "3855134394",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 101,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO. POL. N° 18 SALADILLO",
+    "direccion": "LOCALIDAD SOTELILLO DPTO RIO HONDO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 102,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO. POL. N° 4 LA CAÑADA",
+    "direccion": "CAÑADA DE LA COSTA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 103,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO. POL. N° 21 COLONIA TINCO",
+    "direccion": "CAMINO VECINAL (ZONA RURAL), LOC. COLONIA TINCO",
+    "telefono": "3855134362",
+    "marcable": "3855134362",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 104,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DESTACAMENTO. POL. N° 19 SOTELO",
+    "direccion": "LOCALIDAD DE SOTELO DPTO RIO HONDO",
+    "telefono": "385-5134423",
+    "marcable": "3855134423",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 105,
+    "departamental": "Departamental 6 — Termas De Rio Hondo",
+    "nombre": "DTO. POLICIAL. Nº 20 \"EL SAUZAL\" - Sub Cría Los Nuñez",
+    "direccion": "EL SAUZAL",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 106,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "DEPARTAMENTAL N° 7 (FRIAS)",
+    "direccion": "CALLE TUCUMAN Y DR. RAUL SABAGH FRIAS",
+    "telefono": "3855 98-6717",
+    "marcable": "3855986717",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 107,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "CRIA. COM. Nº 23 FRIAS",
+    "direccion": "CALLE TUCUMAN Y DR. RAUL SABAGH FRIAS",
+    "telefono": "3855986717",
+    "marcable": "3855986717",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 108,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "COM. COM. Nº 25 SAN PEDRO DE GUASAYAN",
+    "direccion": "CALLE 9 DE JULIO S/N ENTRE CATAMACA Y MAIPU",
+    "telefono": "3854970724",
+    "marcable": "3854970724",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 109,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "CRIA. COM. Nº 60 FRIAS",
+    "direccion": "CALLE QUINTANA Y REP. DE LIBANO FRIAS",
+    "telefono": "3855986624",
+    "marcable": "3855986624",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 110,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "CRIA. COM. 3º DEL MENOR Y LA FAMILIA",
+    "direccion": "CALLE ESQUIU Y PELLEGRINI FRIAS",
+    "telefono": "3855986853",
+    "marcable": "3855986853",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 111,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "SUB CRIA DE CHOYA",
+    "direccion": "CALLE PUBLICA S/N LOCALIDAD DE CHOYA",
+    "telefono": "3854970121",
+    "marcable": "3854970121",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 112,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "SUB CRIA VILLA LA PUNTA",
+    "direccion": "RUTA PROV. Nº 24 KM 6",
+    "telefono": "3855986622",
+    "marcable": "3855986622",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 113,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "SUB CRIA. SANTA CATALINA",
+    "direccion": "RUTA NACIONAL Nº 64",
+    "telefono": "3856229433",
+    "marcable": "3856229433",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 114,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "SUB CRIA DE LAVALLE",
+    "direccion": "CALLE 9 DE JULIO S/N ENTRE SAN MARTIN Y RIVADAVIA",
+    "telefono": "3855986641",
+    "marcable": "3855986641",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 115,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "DESTACAMENTO POL. Nº 15 TAPSO",
+    "direccion": "CALLE PUBLICA S/N LOCALIDAD DE TAPSO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 116,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "DTO. POLICIAL. N° 7 \"LA PUNTA\" - SUBCRIA. VILLA LA PUNTA",
+    "direccion": "",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 117,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "DTO. POLICIAL. N° 14 \"SOL DE MAYO\"-SUBCRIA. V LA PUNTA",
+    "direccion": "Ruta Provincial N 24 KM 15",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 118,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "DTO. POLICIAL. Nº 2 \"DOÑA LUISA\" - SUBCRIA. LAVALLE",
+    "direccion": "RUTA PROVINCIAL N°154 KM 29",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 119,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "DTO. POLICIAL. Nº 4 \"LUJAN\" - SUBCRIA. LAVALLE -",
+    "direccion": "RUTA NACIONAL N°64 KM 45",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 120,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "DTO. POLICIAL. N° 16 \"GUAMPACHA\" - SUBCRIA. LAVALLE",
+    "direccion": "RUTA PROVINCIAL N°3 KM 12",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 121,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "DTO. POLICIAL. \"VILLA GUASAYAN\"-SUB CRIA. STA CATALINA",
+    "direccion": "RUTA PROVINCIAL N°3 KM 35",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 122,
+    "departamental": "Departamental 7 — Frias",
+    "nombre": "DTO POLICIAL N° 2 DOÑA LUISA,",
+    "direccion": "RUTA P. N° 154, KM 29",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 123,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "DEPARTAMENTAL N° 8 (FERNANDEZ)",
+    "direccion": "CIUDAD DE FERNANDEZ, DPTO ROBLES",
+    "telefono": "3855 13-4420",
+    "marcable": "3855134420",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 124,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "CRIA COM Nº 24 LA CAÑADA",
+    "direccion": "LA CAÑADA, DPTO FIGUEROA",
+    "telefono": "3855986820",
+    "marcable": "3855986820",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 125,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "CRIA COM N° 35 FERNANDEZ.",
+    "direccion": "avda Jesus Fdez, bº Centro",
+    "telefono": "385-3001276",
+    "marcable": "3853001276",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 126,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "CRIA COM N° 38 GARZA",
+    "direccion": "Av Belgrano Loc de Garza Dpto Sarmiento",
+    "telefono": "3855986806",
+    "marcable": "3855986806",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 127,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "CRIA. COM. Nº 46 BELTRAN",
+    "direccion": "avda San Martin y Ramon carrillo bº centro",
+    "telefono": "385 5986804",
+    "marcable": "3855986804",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 128,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "CRIA COM N° 52 FORRES",
+    "direccion": "SARMIENTO Y MISIONES B° AVELLANEDA",
+    "telefono": "385-5986681",
+    "marcable": "3855986681",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 129,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "CRIA COM N° 62 VILMER",
+    "direccion": "calle Besares s/n del B° Centro Loc. de Vilmer",
+    "telefono": "3854 97-0905",
+    "marcable": "3854970905",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 130,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "CRIA COM N° 64 COLONIA EL SIMBOLAR",
+    "direccion": "COLONIA EL SIMBOLAR, DPTO ROBLES",
+    "telefono": "3855191810",
+    "marcable": "3855191810",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 131,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "CRIA COM N° 13 MUJER y FAMILIA",
+    "direccion": "avda Jesus Fdez, bº Centro",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 132,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "SUBCRIA ESTACION TABOADA",
+    "direccion": "RUTA NAC 34 Y AVDA SAN MARTIN",
+    "telefono": "385-5986677",
+    "marcable": "3855986677",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 133,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "SUB CRIA VILLA ROBLES",
+    "direccion": "VILLA ROBLES DPTO ROBLES",
+    "telefono": "385-4849972",
+    "marcable": "3854849972",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 134,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "DESTACAMENTO POLICIAL nº 3 (Cría Com 24)",
+    "direccion": "EL CRUCERO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 135,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "DESTACAMENTO POLICIAL nº 6 (NO FUNCIONA)",
+    "direccion": "LA BREA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 136,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "DESTACAMENTO POLICIAL nº 7 (Cría Com 24)",
+    "direccion": "LA CANDELARIA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 137,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "DESTACAMENTO POLICIAL nº 9 (Cría Com 24)",
+    "direccion": "LA TAPA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 138,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "DESTACAMENTO POLICIAL nº 13 (Cría Com 24)",
+    "direccion": "QUIMILIOJ",
+    "telefono": "3853001282",
+    "marcable": "3853001282",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 139,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "DESTACAMENTO POLICIAL nº 16 (Cría Com 24)",
+    "direccion": "VILLA FIGUEROA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 140,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "DESTACAMENTO POLICIAL s/n (Cría Com 24)",
+    "direccion": "COLONIA SAN JUAN",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 141,
+    "departamental": "Departamental 8 — Fernandez",
+    "nombre": "DESTACAMENTO. N° 10 SANTO DOMINGO",
+    "direccion": "RUTA PROV.N° 1 KM 10 PJE.STO DOMINGO DPTO ROBLES",
+    "telefono": "3855 97-0905",
+    "marcable": "3855970905",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 142,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DEPARTAMENTAL N° 9 (LORETO)",
+    "direccion": "H.IRIGOYEN Y PJE. ANISETO CURI",
+    "telefono": "3855986828",
+    "marcable": "3855986828",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 143,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "CRIA.COM.N°20 ATAMISQUI",
+    "direccion": "CUIDAD DE VILLA ATAMISQUI",
+    "telefono": "3855 98-6746",
+    "marcable": "3855986746",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 144,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "CRIA.COM.N°27 LORETO",
+    "direccion": "CALLE 9 DE JULIO E INDEPENDENCIA",
+    "telefono": "3855 98-7151",
+    "marcable": "3855987151",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 145,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "CRIA.COM.N° 36 BREAPOZO",
+    "direccion": "B° SAN MARTIN",
+    "telefono": "3855 98-6729",
+    "marcable": "3855986729",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 146,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "CRIA.COM.N° 37 ARRAGA DPTO SILIPICA",
+    "direccion": "RUTA VIEJA LOC.ARRAGA",
+    "telefono": "3855 98-6611",
+    "marcable": "3855986611",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 147,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "CRIA.COM.N°7 MUJER Y FLIA",
+    "direccion": "H.IRIGOYEN Y PJE. ANISETO CURI",
+    "telefono": "3855 98-6742",
+    "marcable": "3855986742",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 148,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "SUB.CRIA.LA PRIDA DPTO CHOYA",
+    "direccion": "B°CENTRO",
+    "telefono": "3854 44-6167",
+    "marcable": "3854446167",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 149,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "SUB.CRIA.NUEVA FRANCIA DPTO SILIPICA",
+    "direccion": "RUTA NAC.N°9 KM 1091",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 150,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "SUB.CRIA.MEDELLIN DPTO ATAMISQUI",
+    "direccion": "RIVADAVIA Y OBISPO SUELDO",
+    "telefono": "3855 96-4307",
+    "marcable": "3855964307",
+    "estado": "sin verificar",
+    "pagina": 2
+  },
+  {
+    "id": 151,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 5 \"JUANIILLO\" - CRIA. COM. Nº 20",
+    "direccion": "Localidad de Juanillo-Dpto Atamisqui",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 152,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nª 6 \"BARRANCAS\" - CRIA. COM. Nº 20",
+    "direccion": "Localidad de Barrancas-",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 153,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 2 \"CHILCA LA LOMA\" -",
+    "direccion": "Loc Chilca la Loma,Dpto Atamisqui",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 154,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 4 \"HOYON\" - SUBCRIA. MEDELLIN",
+    "direccion": "Calle Publica S/N , Dpto Atamisqui",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 155,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 2 \"CAMPO AMOR\" - CRIA. Nº 27",
+    "direccion": "camino Pcial 65 S/N Campo Amor Dpto loreto",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 156,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 3 \"DIENTE DE ARADO\" - CRIA. Nº 27",
+    "direccion": "camino a Ayuncha S/N-Diente del Arado dpto loreto",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 157,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 4 \"SAN GERONIMO\" - CRIA. Nº 27",
+    "direccion": "calle publica s/n , San Geronimo Dpto Loreto",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 158,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 6 \"LA NORIA\" - CRIA. COM. Nº 27",
+    "direccion": "Ruta Pcial Nª 159 y camino nacional .La Noria Dpto Loreto",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 159,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 12 \"TIO POZO\" - CRIA. COM. Nº 27",
+    "direccion": "Camino vecinal y camino 107, Tio Pozo Dpto loreto",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 160,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 13 \"SAN GREGORIO\" - CRIA. . Nº 27",
+    "direccion": "camino vecinal s/n, San Gregorio Dpto Loreto",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 161,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 16 \"SAUCE SOLO\" - CRIA. Nº 27",
+    "direccion": "camino vecinal s/n,Sauce Solo, Dpto loreto",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 162,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 18 \"SAN VICENTE\" - CRIA. Nº 27",
+    "direccion": "Ruta Nª 9 Km 1055, San Vicente Dpto loreto",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 163,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 1 \"ATOJ POZO\" - CRIA. Nº 36",
+    "direccion": "Loc Atoj Pozo-Dpto san Martin",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 164,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 4 \"VILLA NUEVA\" - CRIA. Nº 36",
+    "direccion": "Localidad de Villa Nueva-Dpto San Martin",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 165,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 5 \"LA HIGUERA\" - CRIA. Nº 36",
+    "direccion": "Localidad de la Higuera-Dpto San Martiin",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 166,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 6 \"PERCHIL BAJO\" - CRIA. Nº 36",
+    "direccion": "Localidad de Perchil Bajo-Dpto San Martin",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 167,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 7 \"CALOJ\" - CRIA. COM. Nº 36",
+    "direccion": "Localidad de Caloj-Dpto San Martin",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 168,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 8 \"ESTACION ROBLES\" - CRIA. Nº 36",
+    "direccion": "Localidad de Estacion Robles-Dpto San Martin",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 169,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 9 \"BARRANCAS COLORADAS\"-CRIA 36",
+    "direccion": "Localidad de Barrancas Coloradas-dpto San Martin",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 170,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 1 \"MANO GASTA\" - CRIA. COM. Nº 37",
+    "direccion": "Localidad de Manogasta-Dpto Silipica",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 171,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 4 \"VILLA SILIPICA\" - CRIA. COM. Nº 37",
+    "direccion": "Localidad de Villa Silipica",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 172,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL. Nº 5 \"SIMBOL\" - CRIA. COM. Nº 37",
+    "direccion": "Localidad de Simbol",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 173,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL \" SUMAMAO\" - SUBCRIA. NUEVA FRANCIA",
+    "direccion": "Localidad de Sumamao",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 174,
+    "departamental": "Departamental 9 — Loreto",
+    "nombre": "DTO. POLICIAL \" N° 13 SAN GREGORIO CRIA COM N°",
+    "direccion": "Ruta Nº 9 , Km 1038",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 2
+  },
+  {
+    "id": 175,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DEPARTAMENTAL N° 10 (PELLEGRINI - JIMENEZ)",
+    "direccion": "CALLE MADRE SELVA S/N Bº 9 DE JULIO NVA. ESPERANZA",
+    "telefono": "385-5986823",
+    "marcable": "3855986823",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 176,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "CRIA COM Nº 26 POZO HONDO",
+    "direccion": "AV. BELGRANO S/N Bº POLICIAL POZO HONDO",
+    "telefono": "385-5986927",
+    "marcable": "3855986927",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 177,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "Cría COM Nº 32 NUEVA ESPERANZA",
+    "direccion": "SIMONA VARGAS Y AV FCO. DE AGUIRRE NVA. ESPERANZA",
+    "telefono": "385-3064316",
+    "marcable": "3853064316",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 178,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "CRIA COM Nº 53 EL BOBADAL",
+    "direccion": "INFANTE DEL CASTAÑO Y MARIA J MATIAS EL BOBADAL",
+    "telefono": "385-5987206",
+    "marcable": "3855987206",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 179,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "CRIA COM Nº 14 MUJER Y FAMILIA",
+    "direccion": "SIMONA VARGAS Y AV FCO. DE AGUIRRE NVA. ESPERANZA",
+    "telefono": "385-5135940",
+    "marcable": "3855135940",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 180,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "SUBCOMISARIA EL ARENAL",
+    "direccion": "ZONA CENTRICA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 181,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "SUBCOMISARIA EL MOJON",
+    "direccion": "CALLE BELGRANO S/N EL MOJON",
+    "telefono": "385-4972287",
+    "marcable": "3854972287",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 182,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "SUBCOMISARIA LAS DELICIAS",
+    "direccion": "RUTA PROVINCIAL Nº 176 Y RUTA 2047 LAS DELICIAS",
+    "telefono": "385-5856742",
+    "marcable": "3855856742",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 183,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DESTACAMENTO Nº 1 RAPELLI",
+    "direccion": "CALLE PUBLICA S/N RAPELLI",
+    "telefono": "385-3051046",
+    "marcable": "3853051046",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 184,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. Nº 1 \"ABRA GRANDE\" - CRIA. Nº 26",
+    "direccion": "ABRA GRANDE",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 185,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. \"ISCA YACU\" - CRIA. COM. Nº 26",
+    "direccion": "ISCA YACU",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 186,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. \"EL QUEMADO\" - CRIA. COM. Nº 32",
+    "direccion": "LOC.EL QUEMADO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 187,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. \"EL OJITO\" - CRIA.COM. Nº 32",
+    "direccion": "LOC.EL OJITO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 188,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL Nº 4 \"CAMPO GRANDE\" - CRIA. Nº 32",
+    "direccion": "LOC.CAMPO GRANDE",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 189,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. Nº 5 \"EL BALDE\" - CRIA. COM. Nº 32",
+    "direccion": "LOC.EL BALDE",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 190,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL Nº 13 \"BETBEDER\" - CRIA. COM. Nº 32",
+    "direccion": "LOC.POZO BEBETDER",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 191,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. \"TUSCA BAJADA\" - SUBCRIA. EL MOJON",
+    "direccion": "Tusca Bajada",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 192,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. Nº 1 \"AGUA AMARGA\"",
+    "direccion": "Agua Amarga",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 193,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. Nº 2 \"AHI VEREMOS\" -",
+    "direccion": "Ahí Veremos",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 194,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. Nº 3 \"ALGARROBAL VIEJO\"",
+    "direccion": "Algarrobal Viejo",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 195,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. Nº 19 \"SANTO DOMINGO\"",
+    "direccion": "Santo Domingo",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 196,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. N° 11 \"LA COSTOSA\" - CRIA. COM. Nº 53",
+    "direccion": "La Costosa",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 197,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. N°13 \"SAN FELIX\" - CRIA. COM. Nº 53",
+    "direccion": "San Felix",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 198,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. N° 6 \"EL CAMBIADO\"",
+    "direccion": "EL CAMBIADO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 199,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. N° 17 \"SAN RAMON\"",
+    "direccion": "SAN RAMON",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 200,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. N° 20 \"VILLA MERCEDES\"",
+    "direccion": "VILLA MERCEDES",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 201,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. Nº 22 \"SAN GREGORIO\"",
+    "direccion": "SAN GREGORIO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 202,
+    "departamental": "Departamental 10 — Pellegrini - Jimenez",
+    "nombre": "DTO. POLICIAL. QUEBRACHO COTO",
+    "direccion": "LOC.QUEBRACHO COTO",
+    "telefono": "3853007552",
+    "marcable": "3853007552",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 203,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DEPARTAMENTAL N° 11 (COPO -ALBERDI)",
+    "direccion": "CALLE BELGRANO Y SAN FCO SOLANO",
+    "telefono": "385-5986693",
+    "marcable": "3855986693",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 204,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "CRIA COM N°18 CAMPO GALLO",
+    "direccion": "CALLE HIPOLITO YRIGOYEN",
+    "telefono": "385-598846",
+    "marcable": "",
+    "estado": "revisar",
+    "pagina": 3
+  },
+  {
+    "id": 205,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "CRIA COM N°22 MONTE QUEMADO",
+    "direccion": "CALLE BELGRANO Y SAN FCO SOLANO",
+    "telefono": "385-5986693",
+    "marcable": "3855986693",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 206,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "CRIA COM Nº 43 PAMPA DE LOS GUANACOS",
+    "direccion": "Paula Montal y esquina San jose de calasanz",
+    "telefono": "385-5986670",
+    "marcable": "3855986670",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 207,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "CRIA COM.N°8 MUJER Y LA FLIA",
+    "direccion": "CALLE BELGRANO Y SAN FCO SOLANO",
+    "telefono": "385-5134419",
+    "marcable": "3855134419",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 208,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "SUB-CRIA SAN JOSE DEL BOQUERÓN",
+    "direccion": "san jose del Boqueron- Dpto Copo",
+    "telefono": "385-4713872",
+    "marcable": "3854713872",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 209,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "SUB-CRIA DE SACHAYOJ",
+    "direccion": "AV. JUAN DOMINGO PERON",
+    "telefono": "385-5986631",
+    "marcable": "3855986631",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 210,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 3 \"DONADEU\" - CRIA. COM. Nº 18",
+    "direccion": "Localidad De Donadeu- Alberdi",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 211,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 4 \"EL FISCO\" - CRIA. COM. Nº 18",
+    "direccion": "Paraje El Fisco- Alberdi",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 212,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 8 \"HUACHANA\" - CRIA. COM. Nº 18",
+    "direccion": "Localidad de Huachana - Alberdi",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 213,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 9 \"MILAGROS\" - CRIA. COM. Nº 18",
+    "direccion": "Paraje El Milagro - Alberdi",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 214,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 10 \"LA MANGA\" - CRIA. COM. Nº 18",
+    "direccion": "Paraje La Manga- Alberdi",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 215,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 11 \"POZO LIMPIO\" - CRIA. Nº 18",
+    "direccion": "Paraje Pozo Limpio- Alberdi",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 216,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 13 \"SANTA CRUZ\" - CRIA. COM. Nº 18",
+    "direccion": "Paraje Santa Cruz- Alberdi",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 217,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 14 \"SANTOS LUGARES\" - CRIA. Nº 18",
+    "direccion": "Localidad De Santos Lugares-Alberdi",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 218,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 19 \"TACO POZO\" - CRIA. COM. Nº 18",
+    "direccion": "Paraje Taco Pozo- Alberdi",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 219,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 2 \"LOS TIGRES\" - CRIA. COM. Nº 22",
+    "direccion": "PJE. LOS TIGRES,DPTO COPO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 220,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 3 \"EL CABURE\" - CRIA. COM. Nº 22",
+    "direccion": "CALLE PUBLICA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 221,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 6 \"LA CAÑADA\" - CRIA. COM. Nº 22",
+    "direccion": "PJE. LA CAÑADA,DPTO COPO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 222,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 8 \"NUEVA ESPERANZA\" - CRIA.Nº 22",
+    "direccion": "PJE. NUEVA ESPERANZA , DPTO COPO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 223,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 9 \"PAAJ POZO\" - CRIA. COM Nº 22",
+    "direccion": "PJE. PAAJ POZO,DPTO COPO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 224,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 11 \"ROCA AHI VEREMOS\" - CRIA.Nº 22",
+    "direccion": "PJE.AHI VEREMOS",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 225,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 14 \"URUTAÚ\" - CRIA. COM. Nº 22",
+    "direccion": "CALLE PUBLICA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 226,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 15 \"VILLA MATOQUE\" - CRIA. Nº 22",
+    "direccion": "PJE. VILLA MATOQUE,DPTO COPO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 227,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO.POLICIAL. \"RANCHILLO\" - CRIA. COM. Nº 22",
+    "direccion": "PJE. RANCHILLO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 228,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO.POLICIAL. \"LA CANDELARIA\" - CRIA. COM. Nº 22",
+    "direccion": "PJE. LA CANDELARIA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 229,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO.POLICIAL. \"PIRUAJ BAJO\" - CRIA. COM. Nº 22",
+    "direccion": "PJE. PIRUAJ BAJO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 230,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 02 \"LOS PIRPINTOS\" - CRIA. COM. 43",
+    "direccion": "Av.Cornelio Saavedra",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 231,
+    "departamental": "Departamental 11 — Copo -Alberdi",
+    "nombre": "DTO. POLICIAL. N° 18 \"TACANITAS\" - CRIA. COM. Nº 18",
+    "direccion": "Paraje Tacanitas- Alberdi",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 232,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "DEPARTAMENTAL N° 12 (MORENO)",
+    "direccion": "Entre Calle Moreno y Sarmiento S/N, Quimili",
+    "telefono": "3854080822",
+    "marcable": "3854080822",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 233,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "CRIA. COM N° 28 SUNCHO CORRAL",
+    "direccion": "CALLE BELGRANO S/N° DEL B° BELGRANO",
+    "telefono": "3855986926",
+    "marcable": "3855986926",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 234,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "CRIA. COM N° 29 -QUIMILI",
+    "direccion": "Av. Rivadavia (S), Quimili",
+    "telefono": "3855987156",
+    "marcable": "3855987156",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 235,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "CRIA. COM N° 44 TINTINA",
+    "direccion": "Calle Sarmiento y Pbro Vittar B° Centro",
+    "telefono": "3855986754",
+    "marcable": "3855986754",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 236,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "Cria. Com. N°9 Mujer y Flia.",
+    "direccion": "Entre Calle Moreno y Sarmiento S/N, Quimili",
+    "telefono": "3854738261",
+    "marcable": "3854738261",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 237,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "SUB CRIA COM WEISBURD",
+    "direccion": "B° CENTRO, LOC. DE WEISBURD",
+    "telefono": "3854970117",
+    "marcable": "3854970117",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 238,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "SUB-CRIA COMUNITARIA VILELAS",
+    "direccion": "CALLE PUBLICA BARRIO CENTRO. LOC. VILELAS",
+    "telefono": "3853064320",
+    "marcable": "3853064320",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 239,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "SUBCRIA. COM. OTUMPA",
+    "direccion": "LOC. OTUMPA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 240,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "SUB. CRIA. MATARA",
+    "direccion": "AV. LIBERTADOR SAN MARTIN S/N° Y CALLE SGTO. CABRAL",
+    "telefono": "3855437184",
+    "marcable": "3855437184",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 241,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "DESTACAMENTO N° 1 ROLDAN",
+    "direccion": "LOC. DE ROLDAN",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 242,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "DESTACAMENTO N° 5 YUCHAN",
+    "direccion": "LOC. DE YUCHAN",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 243,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "DESTACAMENTO N° 20 SAN FELIPE",
+    "direccion": "PAJE. SAN FELIPE DPTO. JUAN FELIPE IBARRA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 244,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "DESTACAMENTO N°11 TINAJAS",
+    "direccion": "PUBLICA S/N LOCALIDAD DE LAS TINAJAS",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 245,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "DESTACAMENTO. POL. N° 7 COLORADO",
+    "direccion": "LOC. COLORADO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 246,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "DESTACAMENTO. POZ. N° 5 CAMPOS DEL CIELO",
+    "direccion": "LOC. CAMPO DEL CIELO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 247,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "DESTACAMENTO. POL. N° 3 ARBOL BLANCO",
+    "direccion": "LOC. ARBOL BLANCO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 248,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "DESTACAMENTO. POL. N° 18 POZO DEL TOBA",
+    "direccion": "LOC. POZO DEL TOBA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 249,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "Destacamento Policial N° 01",
+    "direccion": "Amama",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 250,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "Destacamento Policial N° 02",
+    "direccion": "Alhumpa",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 251,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "Destacamento Policial N° 04",
+    "direccion": "Libertad",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 252,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "Destacamento Policial N° 06",
+    "direccion": "El Hoyo",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 253,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "Destacamento Policial N° 09",
+    "direccion": "Granadero Gatica",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 254,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "Destacamento Policial N° 14",
+    "direccion": "Lilo Viejo",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 255,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "Destacamento Policial N° 15",
+    "direccion": "OTUMPA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 256,
+    "departamental": "Departamental 12 — Moreno",
+    "nombre": "Destacamento Policial N° 16",
+    "direccion": "Patay",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 3
+  },
+  {
+    "id": 257,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "DEPARTAMENTAL N° 13 (AÑATUYA)",
+    "direccion": "AV. 9 DE JULIO ENTRE CALLE MAIPÚ Y AV.SAN MARTÍN",
+    "telefono": "3854 97-0656",
+    "marcable": "3854970656",
+    "estado": "sin verificar",
+    "pagina": 3
+  },
+  {
+    "id": 258,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "CRIA COM N° 21 BANDERA",
+    "direccion": "AV AGRICULTORES",
+    "telefono": "3857-674428 / 385- 5986715",
+    "marcable": "",
+    "estado": "revisar",
+    "pagina": 3
+  },
+  {
+    "id": 259,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "CRIA COM N° 41 AÑATUYA",
+    "direccion": "MITRE Y CACABUCO",
+    "telefono": "+54 9 3853 06-4311",
+    "marcable": "",
+    "estado": "revisar",
+    "pagina": 3
+  },
+  {
+    "id": 260,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "CRIA COM N°48 LOS JURIES",
+    "direccion": "CALLE PUBLICA S/N B° FERROCARRIL",
+    "telefono": "FIJO:471029 CORPO:3855986851",
+    "marcable": "",
+    "estado": "revisar",
+    "pagina": 3
+  },
+  {
+    "id": 261,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "CRIA. COM. N°4 MUJER Y LA FAMILIA",
+    "direccion": "CONSTITUCIÓN S/N ENTRE AV SAN MARTIN Y MAIPÚ B° RIVADAVIA - AÑATUYA",
+    "telefono": "3855986672",
+    "marcable": "3855986672",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 262,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "SUB-CRIA GUARDIA ESCOLTA",
+    "direccion": "DIRECCION CALLE 05 S/N",
+    "telefono": "3857511225",
+    "marcable": "3857511225",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 263,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "SUB CRIA TOMAS YOUNG",
+    "direccion": "TOMAS YOUNG",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 264,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "DESTACAMENTO N° 8",
+    "direccion": "EL CUADRADO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 265,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "DEST FORTIN INCA",
+    "direccion": "AV CONQUISTA DEL DESIERTO Y AV SAN MARTIN",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 266,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "DEST AVERIAS",
+    "direccion": "DIRECCION CALLE 25 DE MAYO S/N",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 267,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "DTO. POLICIAL. N° 1 \"MELERO\"",
+    "direccion": "MELERO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 268,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "DESATACAMENTO N°3 TACAÑITAS",
+    "direccion": "ZONA RURAL TACAÑITAS Y CANAL MELERO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 269,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "DTO. POLICIAL. \"4 BOCAS\"",
+    "direccion": "4 BOCAS",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 270,
+    "departamental": "Departamental 13 — Añatuya",
+    "nombre": "DTO. POLICIAL. Nº 5 \"LA NENA\"",
+    "direccion": "LA NENA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 271,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "DEPARTAMENTAL N° 14 (PINTO)",
+    "direccion": "AV. RAMON CARILLO 242 B° LIBERTAD",
+    "telefono": "3855 98-6758",
+    "marcable": "3855986758",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 272,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "CRIA. COM. N° 17 PINTO",
+    "direccion": "Ramon Carrillo S/N",
+    "telefono": "3855986758",
+    "marcable": "3855986758",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 273,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "CRIA. COM Nº 30 VILLA UNIÓN",
+    "direccion": "Pública s/n° - Villa Unión - Dpto. Mitre.",
+    "telefono": "3855186564",
+    "marcable": "3855186564",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 274,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "CRIA. COM. N° 34 SELVA",
+    "direccion": "CALLE 27 DE ABRIL Y SAN MARTIN",
+    "telefono": "Corporativo:3855986821 Tel fijo: 3857495070",
+    "marcable": "",
+    "estado": "revisar",
+    "pagina": 4
+  },
+  {
+    "id": 275,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "CRÍA COM DE LA MUJER Y LA FAMILIA N° 15 PINTO",
+    "direccion": "Ramon Carrillo S/N",
+    "telefono": "SIN CORPORATIVO",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 276,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "SUB CRIA MALBRAN",
+    "direccion": "B° CENTRO",
+    "telefono": "FIJO:3857-493037 CORP: 385-5987143",
+    "marcable": "",
+    "estado": "revisar",
+    "pagina": 4
+  },
+  {
+    "id": 277,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "DESTACAMENTO COLONIA ALPINA",
+    "direccion": "Calle: juan Felipe Ibarra y Av San Martin",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 278,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "DTO. POLICIAL. N° 2 \"CASARES\" - CRIA. COM. Nº 17",
+    "direccion": "CASARES",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 279,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "DTO. POLICIAL. N° 3 \"EL ALBARDON\" - CRIA. COM. N° 30",
+    "direccion": "Zona Rural - Pje. El Albardon - Dpto Mitre.",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 280,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "DTO. POLICIAL. N* 1 \"ARGENTINA\" - CRIA. COM. Nº 17",
+    "direccion": "ARGENTINA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 281,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "DTO. POLICIAL. N° 4 \"PALO NEGRO\" - CRIA. COM. N° 34",
+    "direccion": "Calle: pubica S/N",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 282,
+    "departamental": "Departamental 14 — Pinto",
+    "nombre": "DTO. POLICIAL. N° 3 \"MACKINLEY\" - CRIA. COM. 34",
+    "direccion": "Calle: Rural Sin número",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 283,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "DEPARTAMENTAL N° 15 (OJO DE AGUA)",
+    "direccion": "CALLE BELGRANO 146 Bº CENTRO, VILLA OJO DE AGUA",
+    "telefono": "NO CUENTA CON TEL. CORPORATIVO (UTILIZA DE LA CRIA. 31)",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 284,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "CRIA COM Nº 31 OJO DE AGUA",
+    "direccion": "CALLE BELGRANO 146 Bº CENTRO, VILLA OJO DE AGUA",
+    "telefono": "3855986741",
+    "marcable": "3855986741",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 285,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "CRIA COM Nº33 SUMAMPA",
+    "direccion": "CALLE SAN MARTIN Bº CENTRO, SUMAMPA",
+    "telefono": "3855986734",
+    "marcable": "3855986734",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 286,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "CRIA COM Nº39 LOS TELARES",
+    "direccion": "CALLE LIBERTAD Nº118 Bº CENTRO, LOS TELARES",
+    "telefono": "3855986735",
+    "marcable": "3855986735",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 287,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "CRIA COM Nº10 MUJER Y LA FAMILIA",
+    "direccion": "CALLE BELGRANO 146 Bº CENTRO, VILLA OJO DE AGUA",
+    "telefono": "NO CUENTA CON TEL. CORPORATIVO (UTILIZA DE LA CRIA. 31)",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 288,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "SUB COMISARIA SOL DE JULIO",
+    "direccion": "CALLE 11 DE JULIO E INDEPENDIENTE Bº MAILIN, SOL DE JULIO",
+    "telefono": "NO CUENTA CON TEL. CORPORATIVO",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 289,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "SUB COMISARIA SALAVINA",
+    "direccion": "AVDA. SOCKO Y CACHILO DIAZ S/N Bº CENTRO, VILLA SALAVINA",
+    "telefono": "3856430060",
+    "marcable": "3856430060",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 290,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "DTO. POLICIAL. N° 5 \"KM 49\" - CRIA. COM Nº 31",
+    "direccion": "KM 49",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 291,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "DTO. POLICIAL. N° 8 \"PASO DE OSCARES\" - CRIA. Nº 33",
+    "direccion": "PASO DE OSCARES",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 292,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "DTO. POLICIAL. N° 11 \"RAMIRO DE VELAZCO\" - CRIA. N° 33",
+    "direccion": "RAMIRO DE VELAZCO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 293,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "DTO. POLICIAL. N° 16 \"VILLA QUEBRACHOS\" - CRIA. Nº 33",
+    "direccion": "VILLA QUEBRACHOS",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 294,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "DTO. POLICIAL. N° 4 \"CHILCA JULIANA\" - CRIA. Nº 39",
+    "direccion": "CHILCA JULIANA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 295,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "DTO. POLICIAL. N° 11 \"RUBIA PASO\" - CRIA. COM. Nº 39",
+    "direccion": "RUBIA PASO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 296,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "DTO. POLICIAL. \"SUMAMPA VIEJO\" - SUBCRIA. V. SALAVINA",
+    "direccion": "SUMAMPA VIEJO",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 297,
+    "departamental": "Departamental 15 — Ojo De Agua",
+    "nombre": "DTO. POLICIAL. N° 14 \"VACA HUMA\" - CRIA. COM. Nº 39",
+    "direccion": "VACA HUMA",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 298,
+    "departamental": "Departamental 18 —  Herrera",
+    "nombre": "DEPARTAMENTAL N° 18 ( HERRERA)",
+    "direccion": "CALLE 27 DE ABRIL S/N°- B° CENTRO",
+    "telefono": "3853 00-2284",
+    "marcable": "3853002284",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 299,
+    "departamental": "Departamental 18 —  Herrera",
+    "nombre": "CRIA COM N°19 HERRERA",
+    "direccion": "CALLE 27 DE ABRIL S/N° - B° CENTRO",
+    "telefono": "3855 98-6756",
+    "marcable": "3855986756",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 300,
+    "departamental": "Departamental 18 —  Herrera",
+    "nombre": "CRIA COM N° 42 COLONIA DORA",
+    "direccion": "CALLE MAIPU N° 270- 7 DE ABRIL",
+    "telefono": "3855 98-6727",
+    "marcable": "3855986727",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 301,
+    "departamental": "Departamental 18 —  Herrera",
+    "nombre": "CRIA COM N°55 ICAÑO",
+    "direccion": "AV. CENTENARIO S/N° - B° CENTRO",
+    "telefono": "3854 71-3760",
+    "marcable": "3854713760",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 302,
+    "departamental": "Departamental 18 —  Herrera",
+    "nombre": "SUB CRIA. LUGONES",
+    "direccion": "BUENOS AIRES S/N° - B° CENTRO",
+    "telefono": "3854 73-8538",
+    "marcable": "3854738538",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 303,
+    "departamental": "Departamental 18 —  Herrera",
+    "nombre": "SUB CRIA. VILLA MAILIN",
+    "direccion": "JUAN PABLO II S/N° - B° CENTRO",
+    "telefono": "3855 98-7174",
+    "marcable": "3855987174",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 304,
+    "departamental": "Departamental 18 —  Herrera",
+    "nombre": "SUB CRIA. REAL SAYANA",
+    "direccion": "CALLE ROJAS S/N°- B° CENTRO",
+    "telefono": "3856 22-9452",
+    "marcable": "3856229452",
+    "estado": "sin verificar",
+    "pagina": 4
+  },
+  {
+    "id": 305,
+    "departamental": "Departamental 18 —  Herrera",
+    "nombre": "DESTACAMENTO Nº 3 PARAJE TORO PAN - Cría N° 19",
+    "direccion": "ZONA RURAL VILLA MAILIN",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 306,
+    "departamental": "Departamental 18 —  Herrera",
+    "nombre": "DESTACAMENTO Nº 6 SABAGASTA - Cría N° 19",
+    "direccion": "ZONA RURAL VILLA MAILIN",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  },
+  {
+    "id": 307,
+    "departamental": "Departamental 18 —  Herrera",
+    "nombre": "DESTACAMENTO Nº 10 PUNTA POZO",
+    "direccion": "ZONA RURAL VILLA MAILIN",
+    "telefono": "NO POSEE",
+    "marcable": "",
+    "estado": "sin teléfono",
+    "pagina": 4
+  }
+]
