@@ -8,7 +8,8 @@
     "marcable": "3855986689",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "marcable": "3855941790",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "marcable": "3854738751",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "ANTENOR ALVAREZ Y A. QUINZIO"
+    "localidad": "ANTENOR ALVAREZ Y A. QUINZIO",
+    "departamento": ""
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "marcable": "3855986679",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "BASE AEREA PALOMAR Y AVIACION CIVIL"
+    "localidad": "BASE AEREA PALOMAR Y AVIACION CIVIL",
+    "departamento": ""
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "marcable": "3853051044",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "marcable": "3855077045",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "LOS NUÑEZ"
+    "localidad": "LOS NUÑEZ",
+    "departamento": ""
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "marcable": "3854728506",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "TERMINAL"
+    "localidad": "TERMINAL",
+    "departamento": ""
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 1,
-    "localidad": "ASHPA KAUSAY"
+    "localidad": "ASHPA KAUSAY",
+    "departamento": ""
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
     "marcable": "3854738459",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "EL DEAN"
+    "localidad": "EL DEAN",
+    "departamento": ""
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 1,
-    "localidad": "EL SAUZAL"
+    "localidad": "EL SAUZAL",
+    "departamento": ""
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@
     "marcable": "3855986654",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 12,
@@ -129,7 +140,8 @@
     "marcable": "3855986652",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 13,
@@ -140,7 +152,8 @@
     "marcable": "3855986849",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 14,
@@ -151,7 +164,8 @@
     "marcable": "3855986824",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 15,
@@ -162,7 +176,8 @@
     "marcable": "3854738824",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 16,
@@ -173,7 +188,8 @@
     "marcable": "3855986661",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 17,
@@ -184,7 +200,8 @@
     "marcable": "3855986654",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 18,
@@ -195,7 +212,8 @@
     "marcable": "3855986692",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 19,
@@ -206,7 +224,8 @@
     "marcable": "3854970642",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 20,
@@ -217,7 +236,8 @@
     "marcable": "3855986844",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 21,
@@ -228,7 +248,8 @@
     "marcable": "3854970302",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 22,
@@ -239,7 +260,8 @@
     "marcable": "3854736773",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 23,
@@ -250,7 +272,8 @@
     "marcable": "3855986839",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 24,
@@ -261,7 +284,8 @@
     "marcable": "3855134421",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 25,
@@ -272,7 +296,8 @@
     "marcable": "3854738656",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 26,
@@ -283,7 +308,8 @@
     "marcable": "3855986843",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 27,
@@ -294,7 +320,8 @@
     "marcable": "3854738768",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 28,
@@ -305,7 +332,8 @@
     "marcable": "3855986757",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 29,
@@ -316,7 +344,8 @@
     "marcable": "3855191620",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "LA DARSENA"
+    "localidad": "LA DARSENA",
+    "departamento": ""
   },
   {
     "id": 30,
@@ -327,7 +356,8 @@
     "marcable": "3855986863",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 31,
@@ -338,7 +368,8 @@
     "marcable": "3855970530",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 32,
@@ -349,7 +380,8 @@
     "marcable": "3856277586",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 33,
@@ -360,7 +392,8 @@
     "marcable": "",
     "estado": "revisar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 34,
@@ -371,7 +404,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 1,
-    "localidad": "Los Acosta"
+    "localidad": "Los Acosta",
+    "departamento": ""
   },
   {
     "id": 35,
@@ -382,7 +416,8 @@
     "marcable": "3855986867",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "Ardiles"
+    "localidad": "Ardiles",
+    "departamento": ""
   },
   {
     "id": 36,
@@ -393,7 +428,8 @@
     "marcable": "3855986877",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "Chaupi Pozo"
+    "localidad": "Chaupi Pozo",
+    "departamento": ""
   },
   {
     "id": 37,
@@ -404,7 +440,8 @@
     "marcable": "3855986864",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 38,
@@ -415,7 +452,8 @@
     "marcable": "3854204540",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 39,
@@ -426,7 +464,8 @@
     "marcable": "3854972276",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 40,
@@ -437,7 +476,8 @@
     "marcable": "3856229446",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "Clodomira"
+    "localidad": "Clodomira",
+    "departamento": "Robles"
   },
   {
     "id": 41,
@@ -448,7 +488,8 @@
     "marcable": "3856229450",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 42,
@@ -459,7 +500,8 @@
     "marcable": "3853051038",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 43,
@@ -470,7 +512,8 @@
     "marcable": "3855908101",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "BANDERA BAJADA"
+    "localidad": "BANDERA BAJADA",
+    "departamento": "Figueroa"
   },
   {
     "id": 44,
@@ -481,7 +524,8 @@
     "marcable": "3856229414",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "ESTACION SIMBOLAR"
+    "localidad": "ESTACION SIMBOLAR",
+    "departamento": ""
   },
   {
     "id": 45,
@@ -492,7 +536,8 @@
     "marcable": "3856889072",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "LA INVERNADA NORTE"
+    "localidad": "LA INVERNADA NORTE",
+    "departamento": "Figueroa"
   },
   {
     "id": 46,
@@ -503,7 +548,8 @@
     "marcable": "3854971777",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "CAÑADA ESCOBAR"
+    "localidad": "CAÑADA ESCOBAR",
+    "departamento": ""
   },
   {
     "id": 47,
@@ -514,7 +560,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Banda"
   },
   {
     "id": 48,
@@ -525,7 +572,8 @@
     "marcable": "3854971275",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 49,
@@ -536,7 +584,8 @@
     "marcable": "3854971307",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "COLONIA MARIA ELENA DPTO. BANDA"
+    "localidad": "COLONIA MARIA ELENA DPTO. BANDA",
+    "departamento": "Banda"
   },
   {
     "id": 50,
@@ -547,7 +596,8 @@
     "marcable": "3854971401",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "NEGRA MUERTA"
+    "localidad": "NEGRA MUERTA",
+    "departamento": "Banda"
   },
   {
     "id": 51,
@@ -558,7 +608,8 @@
     "marcable": "3854971170",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "EL AIBE"
+    "localidad": "EL AIBE",
+    "departamento": "Banda"
   },
   {
     "id": 52,
@@ -569,7 +620,8 @@
     "marcable": "3854971230",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "ANTAJE"
+    "localidad": "ANTAJE",
+    "departamento": "Banda"
   },
   {
     "id": 53,
@@ -580,7 +632,8 @@
     "marcable": "3855134308",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Figueroa"
   },
   {
     "id": 54,
@@ -591,7 +644,8 @@
     "marcable": "3855134317",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "KM. CERO DPTO. FIGUEROA"
+    "localidad": "KM. CERO DPTO. FIGUEROA",
+    "departamento": "Figueroa"
   },
   {
     "id": 55,
@@ -602,7 +656,8 @@
     "marcable": "3855134318",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "POZO DEL CASTAÑO"
+    "localidad": "POZO DEL CASTAÑO",
+    "departamento": "Figueroa"
   },
   {
     "id": 56,
@@ -613,7 +668,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 1,
-    "localidad": "CASPI CORRAL"
+    "localidad": "CASPI CORRAL",
+    "departamento": "Figueroa"
   },
   {
     "id": 57,
@@ -624,7 +680,8 @@
     "marcable": "3855134338",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "VACA HUAÑUNA"
+    "localidad": "VACA HUAÑUNA",
+    "departamento": "Figueroa"
   },
   {
     "id": 58,
@@ -635,7 +692,8 @@
     "marcable": "3854738790",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 59,
@@ -646,7 +704,8 @@
     "marcable": "3855986834",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 60,
@@ -657,7 +716,8 @@
     "marcable": "3856229441",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "C/ DR ARGAÑARAZ Y AV BELGRANO"
+    "localidad": "C/ DR ARGAÑARAZ Y AV BELGRANO",
+    "departamento": ""
   },
   {
     "id": 61,
@@ -668,7 +728,8 @@
     "marcable": "3854768812",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 62,
@@ -679,7 +740,8 @@
     "marcable": "3854209285",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 63,
@@ -690,7 +752,8 @@
     "marcable": "3853064312",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 64,
@@ -701,7 +764,8 @@
     "marcable": "3855986796",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "INDEPENDENCIA PROLONGACION"
+    "localidad": "INDEPENDENCIA PROLONGACION",
+    "departamento": ""
   },
   {
     "id": 65,
@@ -712,7 +776,8 @@
     "marcable": "3855986706",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 66,
@@ -723,7 +788,8 @@
     "marcable": "3855941817",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 67,
@@ -734,7 +800,8 @@
     "marcable": "",
     "estado": "revisar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 68,
@@ -745,7 +812,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 69,
@@ -756,7 +824,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 1,
-    "localidad": "SAN PEDRO"
+    "localidad": "SAN PEDRO",
+    "departamento": ""
   },
   {
     "id": 70,
@@ -767,7 +836,8 @@
     "marcable": "3855986878",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 71,
@@ -778,7 +848,8 @@
     "marcable": "3854764248",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 72,
@@ -789,7 +860,8 @@
     "marcable": "3854738534",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 73,
@@ -800,7 +872,8 @@
     "marcable": "3855986875",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 74,
@@ -811,7 +884,8 @@
     "marcable": "3854085501",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 75,
@@ -822,7 +896,8 @@
     "marcable": "3856261613",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "Sol de mayo"
+    "localidad": "Sol de mayo",
+    "departamento": ""
   },
   {
     "id": 76,
@@ -833,7 +908,8 @@
     "marcable": "",
     "estado": "revisar",
     "pagina": 1,
-    "localidad": "Remes"
+    "localidad": "Remes",
+    "departamento": ""
   },
   {
     "id": 77,
@@ -844,7 +920,8 @@
     "marcable": "3855986691",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": "INTERIOR DEL AREOPUERTO"
+    "localidad": "INTERIOR DEL AREOPUERTO",
+    "departamento": ""
   },
   {
     "id": 78,
@@ -855,7 +932,8 @@
     "marcable": "3855191943",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 79,
@@ -866,7 +944,8 @@
     "marcable": "3855986614",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 80,
@@ -877,7 +956,8 @@
     "marcable": "3855966399",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 81,
@@ -888,7 +968,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 1,
-    "localidad": "ZONA RURAL SAN BENITO DPTO CAPITAL"
+    "localidad": "ZONA RURAL SAN BENITO DPTO CAPITAL",
+    "departamento": "Capital"
   },
   {
     "id": 82,
@@ -899,7 +980,8 @@
     "marcable": "3855986866",
     "estado": "sin verificar",
     "pagina": 1,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 83,
@@ -910,7 +992,8 @@
     "marcable": "3854739992",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 84,
@@ -921,7 +1004,8 @@
     "marcable": "3854081613",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 85,
@@ -932,7 +1016,8 @@
     "marcable": "3855986854",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 86,
@@ -943,7 +1028,8 @@
     "marcable": "3853064313",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "CHARCO"
+    "localidad": "CHARCO",
+    "departamento": ""
   },
   {
     "id": 87,
@@ -954,7 +1040,8 @@
     "marcable": "3854757027",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 88,
@@ -965,7 +1052,8 @@
     "marcable": "3855134426",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 89,
@@ -976,7 +1064,8 @@
     "marcable": "3855134455",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "GRAMILLA"
+    "localidad": "GRAMILLA",
+    "departamento": ""
   },
   {
     "id": 90,
@@ -987,7 +1076,8 @@
     "marcable": "3855134415",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "DE VINARA"
+    "localidad": "DE VINARA",
+    "departamento": ""
   },
   {
     "id": 91,
@@ -998,7 +1088,8 @@
     "marcable": "3855134379",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "BAGUAL"
+    "localidad": "BAGUAL",
+    "departamento": ""
   },
   {
     "id": 92,
@@ -1009,7 +1100,8 @@
     "marcable": "3855134380",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "CHURQUI"
+    "localidad": "CHURQUI",
+    "departamento": ""
   },
   {
     "id": 93,
@@ -1020,7 +1112,8 @@
     "marcable": "3855134392",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "TORO POZO"
+    "localidad": "TORO POZO",
+    "departamento": ""
   },
   {
     "id": 94,
@@ -1031,7 +1124,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "SANTA FELIZA"
+    "localidad": "SANTA FELIZA",
+    "departamento": ""
   },
   {
     "id": 95,
@@ -1042,7 +1136,8 @@
     "marcable": "",
     "estado": "revisar",
     "pagina": 2,
-    "localidad": "CHAÑAR POZO DE ABAJO"
+    "localidad": "CHAÑAR POZO DE ABAJO",
+    "departamento": ""
   },
   {
     "id": 96,
@@ -1053,7 +1148,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "LESCANO"
+    "localidad": "LESCANO",
+    "departamento": ""
   },
   {
     "id": 97,
@@ -1064,7 +1160,8 @@
     "marcable": "",
     "estado": "revisar",
     "pagina": 2,
-    "localidad": "VILLA BALNEARIA DIQUE FRONTAL"
+    "localidad": "VILLA BALNEARIA DIQUE FRONTAL",
+    "departamento": ""
   },
   {
     "id": 98,
@@ -1075,7 +1172,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "LOS ARAGONES"
+    "localidad": "LOS ARAGONES",
+    "departamento": ""
   },
   {
     "id": 99,
@@ -1086,7 +1184,8 @@
     "marcable": "3855135811",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "LOS OVEJERO"
+    "localidad": "LOS OVEJERO",
+    "departamento": ""
   },
   {
     "id": 100,
@@ -1097,7 +1196,8 @@
     "marcable": "3855134394",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "POZUELO"
+    "localidad": "POZUELO",
+    "departamento": ""
   },
   {
     "id": 101,
@@ -1108,7 +1208,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "SOTELILLO"
+    "localidad": "SOTELILLO",
+    "departamento": ""
   },
   {
     "id": 102,
@@ -1119,7 +1220,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "CAÑADA DE LA COSTA"
+    "localidad": "CAÑADA DE LA COSTA",
+    "departamento": ""
   },
   {
     "id": 103,
@@ -1130,7 +1232,8 @@
     "marcable": "3855134362",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "COLONIA TINCO"
+    "localidad": "COLONIA TINCO",
+    "departamento": ""
   },
   {
     "id": 104,
@@ -1141,7 +1244,8 @@
     "marcable": "3855134423",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "DE SOTELO"
+    "localidad": "DE SOTELO",
+    "departamento": ""
   },
   {
     "id": 105,
@@ -1152,7 +1256,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "EL SAUZAL"
+    "localidad": "EL SAUZAL",
+    "departamento": ""
   },
   {
     "id": 106,
@@ -1163,7 +1268,8 @@
     "marcable": "3855986717",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 107,
@@ -1174,7 +1280,8 @@
     "marcable": "3855986717",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 108,
@@ -1185,7 +1292,8 @@
     "marcable": "3854970724",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 109,
@@ -1196,7 +1304,8 @@
     "marcable": "3855986624",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 110,
@@ -1207,7 +1316,8 @@
     "marcable": "3855986853",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 111,
@@ -1218,7 +1328,8 @@
     "marcable": "3854970121",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "DE CHOYA"
+    "localidad": "DE CHOYA",
+    "departamento": ""
   },
   {
     "id": 112,
@@ -1229,7 +1340,8 @@
     "marcable": "3855986622",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 113,
@@ -1240,7 +1352,8 @@
     "marcable": "3856229433",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 114,
@@ -1251,7 +1364,8 @@
     "marcable": "3855986641",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 115,
@@ -1262,7 +1376,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "DE TAPSO"
+    "localidad": "DE TAPSO",
+    "departamento": ""
   },
   {
     "id": 116,
@@ -1273,7 +1388,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 117,
@@ -1284,7 +1400,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 118,
@@ -1295,7 +1412,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 119,
@@ -1306,7 +1424,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 120,
@@ -1317,7 +1436,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 121,
@@ -1328,7 +1448,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 122,
@@ -1339,7 +1460,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 123,
@@ -1350,7 +1472,8 @@
     "marcable": "3855134420",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "CIUDAD DE FERNANDEZ, DPTO ROBLES"
+    "localidad": "CIUDAD DE FERNANDEZ, DPTO ROBLES",
+    "departamento": "Robles"
   },
   {
     "id": 124,
@@ -1361,7 +1484,8 @@
     "marcable": "3855986820",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "LA CAÑADA, DPTO FIGUEROA"
+    "localidad": "LA CAÑADA, DPTO FIGUEROA",
+    "departamento": "Figueroa"
   },
   {
     "id": 125,
@@ -1372,7 +1496,8 @@
     "marcable": "3853001276",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 126,
@@ -1383,7 +1508,8 @@
     "marcable": "3855986806",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "de Garza"
+    "localidad": "de Garza",
+    "departamento": "Sarmiento"
   },
   {
     "id": 127,
@@ -1394,7 +1520,8 @@
     "marcable": "3855986804",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 128,
@@ -1405,7 +1532,8 @@
     "marcable": "3855986681",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 129,
@@ -1416,7 +1544,8 @@
     "marcable": "3854970905",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "de Vilmer"
+    "localidad": "de Vilmer",
+    "departamento": ""
   },
   {
     "id": 130,
@@ -1427,7 +1556,8 @@
     "marcable": "3855191810",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "COLONIA EL SIMBOLAR, DPTO ROBLES"
+    "localidad": "COLONIA EL SIMBOLAR, DPTO ROBLES",
+    "departamento": "Robles"
   },
   {
     "id": 131,
@@ -1438,7 +1568,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 132,
@@ -1449,7 +1580,8 @@
     "marcable": "3855986677",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 133,
@@ -1460,7 +1592,8 @@
     "marcable": "3854849972",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "VILLA ROBLES DPTO ROBLES"
+    "localidad": "VILLA ROBLES DPTO ROBLES",
+    "departamento": "Robles"
   },
   {
     "id": 134,
@@ -1471,7 +1604,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "EL CRUCERO"
+    "localidad": "EL CRUCERO",
+    "departamento": ""
   },
   {
     "id": 135,
@@ -1482,7 +1616,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "LA BREA"
+    "localidad": "LA BREA",
+    "departamento": ""
   },
   {
     "id": 136,
@@ -1493,7 +1628,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "LA CANDELARIA"
+    "localidad": "LA CANDELARIA",
+    "departamento": ""
   },
   {
     "id": 137,
@@ -1504,7 +1640,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "LA TAPA"
+    "localidad": "LA TAPA",
+    "departamento": ""
   },
   {
     "id": 138,
@@ -1515,7 +1652,8 @@
     "marcable": "3853001282",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "QUIMILIOJ"
+    "localidad": "QUIMILIOJ",
+    "departamento": ""
   },
   {
     "id": 139,
@@ -1526,7 +1664,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "VILLA FIGUEROA"
+    "localidad": "VILLA FIGUEROA",
+    "departamento": ""
   },
   {
     "id": 140,
@@ -1537,7 +1676,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "COLONIA SAN JUAN"
+    "localidad": "COLONIA SAN JUAN",
+    "departamento": ""
   },
   {
     "id": 141,
@@ -1548,7 +1688,8 @@
     "marcable": "3855970905",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Robles"
   },
   {
     "id": 142,
@@ -1559,7 +1700,8 @@
     "marcable": "3855986828",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "H.IRIGOYEN Y PJE. ANISETO CURI"
+    "localidad": "H.IRIGOYEN Y PJE. ANISETO CURI",
+    "departamento": ""
   },
   {
     "id": 143,
@@ -1570,7 +1712,8 @@
     "marcable": "3855986746",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "CUIDAD DE VILLA ATAMISQUI"
+    "localidad": "CUIDAD DE VILLA ATAMISQUI",
+    "departamento": ""
   },
   {
     "id": 144,
@@ -1581,7 +1724,8 @@
     "marcable": "3855987151",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 145,
@@ -1592,7 +1736,8 @@
     "marcable": "3855986729",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 146,
@@ -1603,7 +1748,8 @@
     "marcable": "3855986611",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 147,
@@ -1614,7 +1760,8 @@
     "marcable": "3855986742",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "H.IRIGOYEN Y PJE. ANISETO CURI"
+    "localidad": "H.IRIGOYEN Y PJE. ANISETO CURI",
+    "departamento": ""
   },
   {
     "id": 148,
@@ -1625,7 +1772,8 @@
     "marcable": "3854446167",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 149,
@@ -1636,7 +1784,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 150,
@@ -1647,7 +1796,8 @@
     "marcable": "3855964307",
     "estado": "sin verificar",
     "pagina": 2,
-    "localidad": "RIVADAVIA Y OBISPO SUELDO"
+    "localidad": "RIVADAVIA Y OBISPO SUELDO",
+    "departamento": ""
   },
   {
     "id": 151,
@@ -1658,7 +1808,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Atamisqui"
   },
   {
     "id": 152,
@@ -1669,7 +1820,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "alidad de Barrancas-"
+    "localidad": "alidad de Barrancas-",
+    "departamento": ""
   },
   {
     "id": 153,
@@ -1680,7 +1832,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "Chilca la Loma"
+    "localidad": "Chilca la Loma",
+    "departamento": "Atamisqui"
   },
   {
     "id": 154,
@@ -1691,7 +1844,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Atamisqui"
   },
   {
     "id": 155,
@@ -1702,7 +1856,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Loreto"
   },
   {
     "id": 156,
@@ -1713,7 +1868,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Loreto"
   },
   {
     "id": 157,
@@ -1724,7 +1880,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Loreto"
   },
   {
     "id": 158,
@@ -1735,7 +1892,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Loreto"
   },
   {
     "id": 159,
@@ -1746,7 +1904,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Loreto"
   },
   {
     "id": 160,
@@ -1757,7 +1916,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Loreto"
   },
   {
     "id": 161,
@@ -1768,7 +1928,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Loreto"
   },
   {
     "id": 162,
@@ -1779,7 +1940,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Loreto"
   },
   {
     "id": 163,
@@ -1790,7 +1952,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 164,
@@ -1801,7 +1964,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 165,
@@ -1812,7 +1976,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 166,
@@ -1823,7 +1988,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 167,
@@ -1834,7 +2000,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 168,
@@ -1845,7 +2012,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 169,
@@ -1856,7 +2024,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 170,
@@ -1867,7 +2036,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 171,
@@ -1878,7 +2048,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "de Villa Silipica"
+    "localidad": "de Villa Silipica",
+    "departamento": ""
   },
   {
     "id": 172,
@@ -1889,7 +2060,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "de Simbol"
+    "localidad": "de Simbol",
+    "departamento": ""
   },
   {
     "id": 173,
@@ -1900,7 +2072,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": "de Sumamao"
+    "localidad": "de Sumamao",
+    "departamento": ""
   },
   {
     "id": 174,
@@ -1911,7 +2084,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 2,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 175,
@@ -1922,7 +2096,8 @@
     "marcable": "3855986823",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 176,
@@ -1933,7 +2108,8 @@
     "marcable": "3855986927",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 177,
@@ -1944,7 +2120,8 @@
     "marcable": "3853064316",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 178,
@@ -1955,7 +2132,8 @@
     "marcable": "3855987206",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 179,
@@ -1966,7 +2144,8 @@
     "marcable": "3855135940",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 180,
@@ -1977,7 +2156,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "ZONA CENTRICA"
+    "localidad": "ZONA CENTRICA",
+    "departamento": ""
   },
   {
     "id": 181,
@@ -1988,7 +2168,8 @@
     "marcable": "3854972287",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 182,
@@ -1999,7 +2180,8 @@
     "marcable": "3855856742",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 183,
@@ -2010,7 +2192,8 @@
     "marcable": "3853051046",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 184,
@@ -2021,7 +2204,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "ABRA GRANDE"
+    "localidad": "ABRA GRANDE",
+    "departamento": ""
   },
   {
     "id": 185,
@@ -2032,7 +2216,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "ISCA YACU"
+    "localidad": "ISCA YACU",
+    "departamento": ""
   },
   {
     "id": 186,
@@ -2043,7 +2228,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "EL QUEMADO"
+    "localidad": "EL QUEMADO",
+    "departamento": ""
   },
   {
     "id": 187,
@@ -2054,7 +2240,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "EL OJITO"
+    "localidad": "EL OJITO",
+    "departamento": ""
   },
   {
     "id": 188,
@@ -2065,7 +2252,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "CAMPO GRANDE"
+    "localidad": "CAMPO GRANDE",
+    "departamento": ""
   },
   {
     "id": 189,
@@ -2076,7 +2264,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "EL BALDE"
+    "localidad": "EL BALDE",
+    "departamento": ""
   },
   {
     "id": 190,
@@ -2087,7 +2276,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "POZO BEBETDER"
+    "localidad": "POZO BEBETDER",
+    "departamento": ""
   },
   {
     "id": 191,
@@ -2098,7 +2288,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "Tusca Bajada"
+    "localidad": "Tusca Bajada",
+    "departamento": ""
   },
   {
     "id": 192,
@@ -2109,7 +2300,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "Agua Amarga"
+    "localidad": "Agua Amarga",
+    "departamento": ""
   },
   {
     "id": 193,
@@ -2120,7 +2312,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "Ahí Veremos"
+    "localidad": "Ahí Veremos",
+    "departamento": ""
   },
   {
     "id": 194,
@@ -2131,7 +2324,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "Algarrobal Viejo"
+    "localidad": "Algarrobal Viejo",
+    "departamento": ""
   },
   {
     "id": 195,
@@ -2142,7 +2336,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "Santo Domingo"
+    "localidad": "Santo Domingo",
+    "departamento": ""
   },
   {
     "id": 196,
@@ -2153,7 +2348,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "La Costosa"
+    "localidad": "La Costosa",
+    "departamento": ""
   },
   {
     "id": 197,
@@ -2164,7 +2360,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "San Felix"
+    "localidad": "San Felix",
+    "departamento": ""
   },
   {
     "id": 198,
@@ -2175,7 +2372,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "EL CAMBIADO"
+    "localidad": "EL CAMBIADO",
+    "departamento": ""
   },
   {
     "id": 199,
@@ -2186,7 +2384,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "SAN RAMON"
+    "localidad": "SAN RAMON",
+    "departamento": ""
   },
   {
     "id": 200,
@@ -2197,7 +2396,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "VILLA MERCEDES"
+    "localidad": "VILLA MERCEDES",
+    "departamento": ""
   },
   {
     "id": 201,
@@ -2208,7 +2408,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "SAN GREGORIO"
+    "localidad": "SAN GREGORIO",
+    "departamento": ""
   },
   {
     "id": 202,
@@ -2219,7 +2420,8 @@
     "marcable": "3853007552",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": "QUEBRACHO COTO"
+    "localidad": "QUEBRACHO COTO",
+    "departamento": ""
   },
   {
     "id": 203,
@@ -2230,7 +2432,8 @@
     "marcable": "3855986693",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 204,
@@ -2241,7 +2444,8 @@
     "marcable": "",
     "estado": "revisar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 205,
@@ -2252,7 +2456,8 @@
     "marcable": "3855986693",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 206,
@@ -2263,7 +2468,8 @@
     "marcable": "3855986670",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 207,
@@ -2274,7 +2480,8 @@
     "marcable": "3855134419",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 208,
@@ -2285,7 +2492,8 @@
     "marcable": "3854713872",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": "san jose del Boqueron- Dpto Copo"
+    "localidad": "san jose del Boqueron- Dpto Copo",
+    "departamento": "Copo"
   },
   {
     "id": 209,
@@ -2296,7 +2504,8 @@
     "marcable": "3855986631",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 210,
@@ -2307,7 +2516,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 211,
@@ -2318,7 +2528,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 212,
@@ -2329,7 +2540,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 213,
@@ -2340,7 +2552,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 214,
@@ -2351,7 +2564,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 215,
@@ -2362,7 +2576,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 216,
@@ -2373,7 +2588,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 217,
@@ -2384,7 +2600,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 218,
@@ -2395,7 +2612,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 219,
@@ -2406,7 +2624,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "PJE. LOS TIGRES,DPTO COPO"
+    "localidad": "PJE. LOS TIGRES,DPTO COPO",
+    "departamento": "Copo"
   },
   {
     "id": 220,
@@ -2417,7 +2636,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 221,
@@ -2428,7 +2648,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "PJE. LA CAÑADA,DPTO COPO"
+    "localidad": "PJE. LA CAÑADA,DPTO COPO",
+    "departamento": "Copo"
   },
   {
     "id": 222,
@@ -2439,7 +2660,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "PJE. NUEVA ESPERANZA , DPTO COPO"
+    "localidad": "PJE. NUEVA ESPERANZA , DPTO COPO",
+    "departamento": "Copo"
   },
   {
     "id": 223,
@@ -2450,7 +2672,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "PJE. PAAJ POZO,DPTO COPO"
+    "localidad": "PJE. PAAJ POZO,DPTO COPO",
+    "departamento": "Copo"
   },
   {
     "id": 224,
@@ -2461,7 +2684,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "PJE.AHI VEREMOS"
+    "localidad": "PJE.AHI VEREMOS",
+    "departamento": ""
   },
   {
     "id": 225,
@@ -2472,7 +2696,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 226,
@@ -2483,7 +2708,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "PJE. VILLA MATOQUE,DPTO COPO"
+    "localidad": "PJE. VILLA MATOQUE,DPTO COPO",
+    "departamento": "Copo"
   },
   {
     "id": 227,
@@ -2494,7 +2720,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "PJE. RANCHILLO"
+    "localidad": "PJE. RANCHILLO",
+    "departamento": ""
   },
   {
     "id": 228,
@@ -2505,7 +2732,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "PJE. LA CANDELARIA"
+    "localidad": "PJE. LA CANDELARIA",
+    "departamento": ""
   },
   {
     "id": 229,
@@ -2516,7 +2744,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "PJE. PIRUAJ BAJO"
+    "localidad": "PJE. PIRUAJ BAJO",
+    "departamento": ""
   },
   {
     "id": 230,
@@ -2527,7 +2756,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 231,
@@ -2538,7 +2768,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 232,
@@ -2549,7 +2780,8 @@
     "marcable": "3854080822",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 233,
@@ -2560,7 +2792,8 @@
     "marcable": "3855986926",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 234,
@@ -2571,7 +2804,8 @@
     "marcable": "3855987156",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 235,
@@ -2582,7 +2816,8 @@
     "marcable": "3855986754",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 236,
@@ -2593,7 +2828,8 @@
     "marcable": "3854738261",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 237,
@@ -2604,7 +2840,8 @@
     "marcable": "3854970117",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": "DE WEISBURD"
+    "localidad": "DE WEISBURD",
+    "departamento": ""
   },
   {
     "id": 238,
@@ -2615,7 +2852,8 @@
     "marcable": "3853064320",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": "VILELAS"
+    "localidad": "VILELAS",
+    "departamento": ""
   },
   {
     "id": 239,
@@ -2626,7 +2864,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "OTUMPA"
+    "localidad": "OTUMPA",
+    "departamento": ""
   },
   {
     "id": 240,
@@ -2637,7 +2876,8 @@
     "marcable": "3855437184",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 241,
@@ -2648,7 +2888,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "DE ROLDAN"
+    "localidad": "DE ROLDAN",
+    "departamento": ""
   },
   {
     "id": 242,
@@ -2659,7 +2900,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "DE YUCHAN"
+    "localidad": "DE YUCHAN",
+    "departamento": ""
   },
   {
     "id": 243,
@@ -2670,7 +2912,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Juan Felipe Ibarra"
   },
   {
     "id": 244,
@@ -2681,7 +2924,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "DE LAS TINAJAS"
+    "localidad": "DE LAS TINAJAS",
+    "departamento": ""
   },
   {
     "id": 245,
@@ -2692,7 +2936,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "COLORADO"
+    "localidad": "COLORADO",
+    "departamento": ""
   },
   {
     "id": 246,
@@ -2703,7 +2948,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "CAMPO DEL CIELO"
+    "localidad": "CAMPO DEL CIELO",
+    "departamento": ""
   },
   {
     "id": 247,
@@ -2714,7 +2960,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "ARBOL BLANCO"
+    "localidad": "ARBOL BLANCO",
+    "departamento": ""
   },
   {
     "id": 248,
@@ -2725,7 +2972,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "POZO DEL TOBA"
+    "localidad": "POZO DEL TOBA",
+    "departamento": ""
   },
   {
     "id": 249,
@@ -2736,7 +2984,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "Amama"
+    "localidad": "Amama",
+    "departamento": ""
   },
   {
     "id": 250,
@@ -2747,7 +2996,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "Alhumpa"
+    "localidad": "Alhumpa",
+    "departamento": ""
   },
   {
     "id": 251,
@@ -2758,7 +3008,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "Libertad"
+    "localidad": "Libertad",
+    "departamento": ""
   },
   {
     "id": 252,
@@ -2769,7 +3020,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "El Hoyo"
+    "localidad": "El Hoyo",
+    "departamento": ""
   },
   {
     "id": 253,
@@ -2780,7 +3032,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "Granadero Gatica"
+    "localidad": "Granadero Gatica",
+    "departamento": ""
   },
   {
     "id": 254,
@@ -2791,7 +3044,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "Lilo Viejo"
+    "localidad": "Lilo Viejo",
+    "departamento": ""
   },
   {
     "id": 255,
@@ -2802,7 +3056,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "OTUMPA"
+    "localidad": "OTUMPA",
+    "departamento": ""
   },
   {
     "id": 256,
@@ -2813,7 +3068,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 3,
-    "localidad": "Patay"
+    "localidad": "Patay",
+    "departamento": ""
   },
   {
     "id": 257,
@@ -2824,7 +3080,8 @@
     "marcable": "3854970656",
     "estado": "sin verificar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 258,
@@ -2835,7 +3092,8 @@
     "marcable": "",
     "estado": "revisar",
     "pagina": 3,
-    "localidad": "AV AGRICULTORES"
+    "localidad": "AV AGRICULTORES",
+    "departamento": ""
   },
   {
     "id": 259,
@@ -2846,7 +3104,8 @@
     "marcable": "",
     "estado": "revisar",
     "pagina": 3,
-    "localidad": "MITRE Y CACABUCO"
+    "localidad": "MITRE Y CACABUCO",
+    "departamento": ""
   },
   {
     "id": 260,
@@ -2857,7 +3116,8 @@
     "marcable": "",
     "estado": "revisar",
     "pagina": 3,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 261,
@@ -2868,7 +3128,8 @@
     "marcable": "3855986672",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 262,
@@ -2879,7 +3140,8 @@
     "marcable": "3857511225",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 263,
@@ -2890,7 +3152,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "TOMAS YOUNG"
+    "localidad": "TOMAS YOUNG",
+    "departamento": ""
   },
   {
     "id": 264,
@@ -2901,7 +3164,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "EL CUADRADO"
+    "localidad": "EL CUADRADO",
+    "departamento": ""
   },
   {
     "id": 265,
@@ -2912,7 +3176,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 266,
@@ -2923,7 +3188,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 267,
@@ -2934,7 +3200,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "MELERO"
+    "localidad": "MELERO",
+    "departamento": ""
   },
   {
     "id": 268,
@@ -2945,7 +3212,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "ZONA RURAL TACAÑITAS Y CANAL MELERO"
+    "localidad": "ZONA RURAL TACAÑITAS Y CANAL MELERO",
+    "departamento": ""
   },
   {
     "id": 269,
@@ -2956,7 +3224,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 270,
@@ -2967,7 +3236,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "LA NENA"
+    "localidad": "LA NENA",
+    "departamento": ""
   },
   {
     "id": 271,
@@ -2978,7 +3248,8 @@
     "marcable": "3855986758",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 272,
@@ -2989,7 +3260,8 @@
     "marcable": "3855986758",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": "Ramon Carrillo S/N"
+    "localidad": "Ramon Carrillo S/N",
+    "departamento": ""
   },
   {
     "id": 273,
@@ -3000,7 +3272,8 @@
     "marcable": "3855186564",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Mitre"
   },
   {
     "id": 274,
@@ -3011,7 +3284,8 @@
     "marcable": "",
     "estado": "revisar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 275,
@@ -3022,7 +3296,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "Ramon Carrillo S/N"
+    "localidad": "Ramon Carrillo S/N",
+    "departamento": ""
   },
   {
     "id": 276,
@@ -3033,7 +3308,8 @@
     "marcable": "",
     "estado": "revisar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 277,
@@ -3044,7 +3320,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 278,
@@ -3055,7 +3332,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "CASARES"
+    "localidad": "CASARES",
+    "departamento": ""
   },
   {
     "id": 279,
@@ -3066,7 +3344,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": "Mitre"
   },
   {
     "id": 280,
@@ -3077,7 +3356,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "ARGENTINA"
+    "localidad": "ARGENTINA",
+    "departamento": ""
   },
   {
     "id": 281,
@@ -3088,7 +3368,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 282,
@@ -3099,7 +3380,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 283,
@@ -3110,7 +3392,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 284,
@@ -3121,7 +3404,8 @@
     "marcable": "3855986741",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 285,
@@ -3132,7 +3416,8 @@
     "marcable": "3855986734",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 286,
@@ -3143,7 +3428,8 @@
     "marcable": "3855986735",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 287,
@@ -3154,7 +3440,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 288,
@@ -3165,7 +3452,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 289,
@@ -3176,7 +3464,8 @@
     "marcable": "3856430060",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 290,
@@ -3187,7 +3476,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 291,
@@ -3198,7 +3488,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "PASO DE OSCARES"
+    "localidad": "PASO DE OSCARES",
+    "departamento": ""
   },
   {
     "id": 292,
@@ -3209,7 +3500,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "RAMIRO DE VELAZCO"
+    "localidad": "RAMIRO DE VELAZCO",
+    "departamento": ""
   },
   {
     "id": 293,
@@ -3220,7 +3512,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "VILLA QUEBRACHOS"
+    "localidad": "VILLA QUEBRACHOS",
+    "departamento": ""
   },
   {
     "id": 294,
@@ -3231,7 +3524,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "CHILCA JULIANA"
+    "localidad": "CHILCA JULIANA",
+    "departamento": ""
   },
   {
     "id": 295,
@@ -3242,7 +3536,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "RUBIA PASO"
+    "localidad": "RUBIA PASO",
+    "departamento": ""
   },
   {
     "id": 296,
@@ -3253,7 +3548,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "SUMAMPA VIEJO"
+    "localidad": "SUMAMPA VIEJO",
+    "departamento": ""
   },
   {
     "id": 297,
@@ -3264,7 +3560,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "VACA HUMA"
+    "localidad": "VACA HUMA",
+    "departamento": ""
   },
   {
     "id": 298,
@@ -3275,7 +3572,8 @@
     "marcable": "3853002284",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 299,
@@ -3286,7 +3584,8 @@
     "marcable": "3855986756",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 300,
@@ -3297,7 +3596,8 @@
     "marcable": "3855986727",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 301,
@@ -3308,7 +3608,8 @@
     "marcable": "3854713760",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 302,
@@ -3319,7 +3620,8 @@
     "marcable": "3854738538",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 303,
@@ -3330,7 +3632,8 @@
     "marcable": "3855987174",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 304,
@@ -3341,7 +3644,8 @@
     "marcable": "3856229452",
     "estado": "sin verificar",
     "pagina": 4,
-    "localidad": ""
+    "localidad": "",
+    "departamento": ""
   },
   {
     "id": 305,
@@ -3352,7 +3656,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "ZONA RURAL VILLA MAILIN"
+    "localidad": "ZONA RURAL VILLA MAILIN",
+    "departamento": ""
   },
   {
     "id": 306,
@@ -3363,7 +3668,8 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "ZONA RURAL VILLA MAILIN"
+    "localidad": "ZONA RURAL VILLA MAILIN",
+    "departamento": ""
   },
   {
     "id": 307,
@@ -3374,6 +3680,7 @@
     "marcable": "",
     "estado": "sin teléfono",
     "pagina": 4,
-    "localidad": "ZONA RURAL VILLA MAILIN"
+    "localidad": "ZONA RURAL VILLA MAILIN",
+    "departamento": ""
   }
 ]
