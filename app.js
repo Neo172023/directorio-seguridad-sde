@@ -34,12 +34,22 @@ $('orientation-location').addEventListener('click',()=>{
 updateOrientation();
 $('nearest-location').addEventListener('click',()=>{
  if(!navigator.geolocation){$('nearest-status').textContent='Tu navegador no permite utilizar GPS.';return}
- $('nearest-status').textContent='Obteniendo tu ubicación...';$('nearest-links').innerHTML='';
+ // Abrir la pestaña en el gesto del usuario evita el bloqueo de ventanas emergentes.
+ const mapsTab=window.open('about:blank','_blank');
+ if(mapsTab){mapsTab.document.title='Buscando comisarías próximas...';mapsTab.opener=null}
+ $('nearest-status').textContent='Obteniendo tu ubicación para abrir Google Maps...';
+ $('nearest-links').innerHTML='';
  navigator.geolocation.getCurrentPosition(p=>{
   const lat=p.coords.latitude,lng=p.coords.longitude;
-  const url='https://www.google.com/maps/search/?api=1&query='+encodeURIComponent('comisaría policial cerca de '+lat.toFixed(6)+','+lng.toFixed(6));
-  $('nearest-status').textContent='Ubicación obtenida (precisión aproximada: '+Math.round(p.coords.accuracy)+' m). Consultá en Maps las dependencias cercanas y sus distancias.';
-  $('nearest-links').innerHTML='<a class="btn primary" target="_blank" rel="noopener noreferrer" href="'+esc(url)+'">🗺️ Ver comisarías próximas en Google Maps</a>';
- },e=>{$('nearest-status').textContent=e.code===1?'No se autorizó el acceso a la ubicación.':'No se pudo obtener el GPS. Volvé a intentar.'},{enableHighAccuracy:true,timeout:15000,maximumAge:0});
+  // Google Maps utiliza el centro @lat,lng,zoom: no interpretar coordenadas como texto de búsqueda.
+  const url='https://www.google.com/maps/search/'+encodeURIComponent('comisarías')+'/@'+lat.toFixed(6)+','+lng.toFixed(6)+',14z';
+  $('nearest-status').textContent='Ubicación obtenida (precisión aproximada: '+Math.round(p.coords.accuracy)+' m). Abriendo Google Maps centrado en tu ubicación.';
+  $('nearest-links').innerHTML='<a class="btn primary" target="_blank" rel="noopener noreferrer" href="'+esc(url)+'">🗺️ Abrir Google Maps en mi ubicación</a>';
+  if(mapsTab&&!mapsTab.closed)mapsTab.location.replace(url);
+  else $('nearest-status').textContent+=' Si no se abrió automáticamente, usá el enlace inferior.';
+ },e=>{
+  if(mapsTab&&!mapsTab.closed)mapsTab.close();
+  $('nearest-status').textContent=e.code===1?'No se autorizó el acceso a la ubicación.':'No se pudo obtener el GPS. Volvé a intentar.';
+ },{enableHighAccuracy:true,timeout:15000,maximumAge:0});
 });
 fetch('datos.json?v=14',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Datos no disponibles');return r.json()}).then(items=>{data=items;const prov=['Aguirre','Alberdi','Atamisqui','Avellaneda','Banda','Belgrano','Capital','Choya','Copo','Figueroa','General Taboada','Guasayán','Jiménez','Juan Felipe Ibarra','Loreto','Mitre','Moreno','Ojo de Agua','Pellegrini','Quebrachos','Río Hondo','Rivadavia','Robles','Salavina','San Martín','Sarmiento','Silípica'];prov.forEach(n=>{const o=document.createElement('option');o.value=n;o.textContent=n;$('geo-dept').append(o)});[...new Set(data.map(x=>x.departamental))].sort((a,b)=>Number(a.match(/\d+/)?.[0]||999)-Number(b.match(/\d+/)?.[0]||999)).forEach(d=>{const o=document.createElement('option');o.value=d;o.textContent=d;$('dept').append(o)});render()}).catch(()=>{$('count').textContent='No se pudo cargar el directorio. Actualizá la página.'});if('serviceWorker'in navigator){navigator.serviceWorker.getRegistrations().then(regs=>Promise.all(regs.map(r=>r.unregister()))).catch(()=>{});if('caches'in window)caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('directorio-sde-')).map(k=>caches.delete(k)))).catch(()=>{})}
