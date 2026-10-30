@@ -34,21 +34,15 @@ $('orientation-location').addEventListener('click',()=>{
 updateOrientation();
 $('nearest-location').addEventListener('click',()=>{
  if(!navigator.geolocation){$('nearest-status').textContent='Tu navegador no permite utilizar GPS.';return}
- // Abrir la pestaña en el gesto del usuario evita el bloqueo de ventanas emergentes.
- const mapsTab=window.open('about:blank','_blank');
- if(mapsTab){mapsTab.document.title='Buscando comisarías próximas...';mapsTab.opener=null}
  $('nearest-status').textContent='Obteniendo tu ubicación para abrir Google Maps...';
  $('nearest-links').innerHTML='';
  navigator.geolocation.getCurrentPosition(p=>{
   const lat=p.coords.latitude,lng=p.coords.longitude;
-  // Google Maps utiliza el centro @lat,lng,zoom: no interpretar coordenadas como texto de búsqueda.
   const url='https://www.google.com/maps/search/'+encodeURIComponent('comisarías')+'/@'+lat.toFixed(6)+','+lng.toFixed(6)+',14z';
-  $('nearest-status').textContent='Ubicación obtenida (precisión aproximada: '+Math.round(p.coords.accuracy)+' m). Abriendo Google Maps centrado en tu ubicación.';
-  $('nearest-links').innerHTML='<a class="btn primary" target="_blank" rel="noopener noreferrer" href="'+esc(url)+'">🗺️ Abrir Google Maps en mi ubicación</a>';
-  if(mapsTab&&!mapsTab.closed)mapsTab.location.replace(url);
-  else $('nearest-status').textContent+=' Si no se abrió automáticamente, usá el enlace inferior.';
+  $('nearest-status').textContent='Ubicación obtenida (precisión aproximada: '+Math.round(p.coords.accuracy)+' m). Abriendo Google Maps...';
+  // Navegar en la misma pestaña evita la ventana vacía que bloquean algunos navegadores.
+  window.location.assign(url);
  },e=>{
-  if(mapsTab&&!mapsTab.closed)mapsTab.close();
   $('nearest-status').textContent=e.code===1?'No se autorizó el acceso a la ubicación.':'No se pudo obtener el GPS. Volvé a intentar.';
  },{enableHighAccuracy:true,timeout:15000,maximumAge:0});
 });
